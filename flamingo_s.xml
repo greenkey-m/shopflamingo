@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2019-04-25 20:00">
+    <shop>
+        <name>Flamingo</name>
+        <company>FlamingoMarket</company>
+        <url>https://flamingomarket.ru/</url>
+        <currencies>
+            <currency id="RUR" rate="1"/>
+        </currencies>
+        <categories>
+            <category id="2">Теплицы и каркасы</category>
+            <category id="11">Навесы</category>
+            <category id="12">Для дачи</category>
+        </categories>
+        <delivery-options>
+            <option cost="0" days="3"/>
+        </delivery-options>
+        <offers>
+
+            <offer id="53x4x100" available="true">
+                <url>https://flamingomarket.ru/katalog/item/triumf_domik/</url>
+                <price>16800</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>2</categoryId>
+                <picture>https://cdn.bitrix24.ru/b10174365/iblock/243/243cf1526cd3d1f111f0ffc1f26220da/d1-.jpg</picture>
+                <picture>https://cdn.bitrix24.ru/b10174365/iblock/fe7/fe7f6fb6315e385d74baa165a0a50e05/d2.jpg</picture>
+                <picture>https://cdn.bitrix24.ru/b10174365/iblock/67f/67fabd035f247695e4ee7f1be7c1dc02/d3.jpg</picture>
+                <picture>https://cdn.bitrix24.ru/b10174365/iblock/7ab/7ab4ca1a3d05bbf9ced8c9fac423f323/d4.jpg</picture>
+                <store>true</store>
+                <delivery>true</delivery>
+                <name>Теплица оцинкованная "Триумф Домик" от 4м</name>
+                <vendor>Триумф</vendor>
+                <vendorCode>triumf-house-4х100</vendorCode>
+                <model>triumf-house-4х100</model>
+                <description>Теплица из поликарбоната, каркас выполнен из стальной оцинкованной трубы. Поликарбонат 4мм
+                    с защитой UV.
+                </description>
+                <sales_notes>Оплата при доставке, длина от 4м, дуги 100/65 см.</sales_notes>
+                <manufacturer_warranty>true</manufacturer_warranty>
+                <param name="Тип">теплица</param>
+                <param name="Покрытие">поликарбонат</param>
+                <param name="Тип каркаса">профильная труба</param>
+                <param name="Оцинкованный каркас">есть</param>
+                <param name="Сечение каркаса">30х30 мм</param>
+                <param name="Наличие форточки">есть</param>
+                <param name="Длина" unit="метр">4</param>
+                <param name="Шаг между дугами" unit="см">100</param>
+                <param name="Толщина стенки трубы" unit="мм">1,0</param>
+                <param name="Наличие дверей">есть</param>
+                <param name="Грунтозацепы">опционально</param>
+                <param name="Брус">опционально</param>
+                <param name="Внутренняя перегородка">опционально</param>
+                <param name="Боковая форточка">опционально</param>
+                <param name="Механизм открывания форточки">опционально</param>
+                <param name="Монтаж">опционально</param>
+            </offer>
+
+            <offer id="195x4x100" available="true">
+                <url>https://flamingomarket.ru/katalog/item/triumf_sfera/</url>
+                <price>21800</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>2</categoryId>
+                <picture>https://cdn.bitrix24.ru/b10174365/iblock/70c/70c31543dada592fc6ca24cc3d965530/42520761.jpg</picture>
+                <picture>https://cdn.bitrix24.ru/b10174365/iblock/f82/f82beb0a1b0b8ff66fcb6eee374e321f/opensky.jpg</picture>
+                <picture>https://cdn.bitrix24.ru/b10174365/iblock/6d0/6d038c7f9eceb2fee67041ac443a027f/sphera_2.jpg</picture>
+                <picture>https://cdn.bitrix24.ru/b10174365/iblock/8cf/8cf39a5401997dbabc571cb89d8967a4/sphera_3.jpg</picture>
+                <store>true</store>
+                <delivery>true</delivery>
+                <name>Теплица оцинкованная "Триумф Сфера" (теплица с раздвижной крышей) от 4м</name>
+                <vendor>Триумф</vendor>
+                <vendorCode>triumf-sphere-4х100</vendorCode>
+                <model>triumf-sphere-4х100</model>
+                <description>Теплица из поликарбоната, каркас выполнен из стальной оцинкованной трубы с раздвижной
+                    крышей. Поликарбонат 4мм с защитой UV.
+                </description>
+                <sales_notes>Оплата при доставке, длина от 4м, дуги 100/65 см.</sales_notes>
+                <manufacturer_warranty>true</manufacturer_warranty>
+                <param name="Тип">теплица</param>
+                <param name="Покрытие">поликарбонат</param>
+                <param name="Тип каркаса">профильная труба</param>
+                <param name="Оцинкованный каркас">есть</param>
+                <param name="Сечение каркаса">20х20 мм</param>
+                <param name="Наличие форточки">есть</param>
+                <param name="Длина" unit="метр">4</param>
+                <param name="Шаг между дугами" unit="см">100</param>
+                <param name="Толщина стенки трубы" unit="мм">1,0</param>
+                <param name="Наличие дверей">есть</param>
+                <param name="Грунтозацепы">опционально</param>
+                <param name="Брус">опционально</param>
+                <param name="Внутренняя перегородка">опционально</param>
+                <param name="Боковая форточка">опционально</param>
+                <param name="Механизм открывания форточки">опционально</param>
+                <param name="Монтаж">опционально</param>
+            </offer>
+
+            <offer id="87x4x100" available="true">
+                <url>https://flamingomarket.ru/katalog/item/triumf_narodnaya/</url>
+                <price>15500</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>2</categoryId>
+                <picture>https://cdn.bitrix24.ru/b10174365/iblock/46f/46f50842f2758f0612db08f7f3c36306/IMG_3425.JPG</picture>
+                <picture>https://cdn.bitrix24.ru/b10174365/iblock/a29/a290185f01855078d3bab3dcc637088f/s1.jpeg</picture>
+                <picture>https://cdn.bitrix24.ru/b10174365/iblock/834/8346b415eaabcea289e0cdcbeb258ef0/s2.jpeg</picture>
+                <picture>https://cdn.bitrix24.ru/b10174365/iblock/9af/9afc2d5154477939ddf7a64f93e9c183/s3.jpeg</picture>
+                <picture>https://cdn.bitrix24.ru/b10174365/iblock/3cf/3cfea66ee869589c8e1fd1f39d203025/s4.jpeg</picture>
+                <picture>https://cdn.bitrix24.ru/b10174365/iblock/f39/f39bf98da1a094b2330a5993bd7f4770/s5.jpeg</picture>
+                <store>true</store>
+                <delivery>true</delivery>
+                <name>Теплица оцинкованная "Триумф Народная" от 4м</name>
+                <vendor>Триумф</vendor>
+                <vendorCode>triumf-narod-4х100</vendorCode>
+                <model>triumf-narod-4х100</model>
+                <description>Теплица из поликарбоната, каркас выполнен из стальной оцинкованной трубы. Поликарбонат 4мм
+                    с защитой UV.
+                </description>
+                <sales_notes>Оплата при доставке, длина от 4м, дуги 100/65 см.</sales_notes>
+                <manufacturer_warranty>true</manufacturer_warranty>
+                <param name="Тип">теплица</param>
+                <param name="Покрытие">поликарбонат</param>
+                <param name="Тип каркаса">профильная труба</param>
+                <param name="Оцинкованный каркас">есть</param>
+                <param name="Сечение каркаса">20х20 мм</param>
+                <param name="Наличие форточки">есть</param>
+                <param name="Длина" unit="метр">4</param>
+                <param name="Шаг между дугами" unit="см">100</param>
+                <param name="Толщина стенки трубы" unit="мм">1,0</param>
+                <param name="Наличие дверей">есть</param>
+                <param name="Грунтозацепы">опционально</param>
+                <param name="Брус">опционально</param>
+                <param name="Внутренняя перегородка">опционально</param>
+                <param name="Боковая форточка">опционально</param>
+                <param name="Механизм открывания форточки">опционально</param>
+                <param name="Монтаж">опционально</param>
+            </offer>
+
+            <offer id="177x4x100" available="true">
+                <url>https://flamingomarket.ru/katalog/item/agro_kaplya/</url>
+                <price>16000</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>2</categoryId>
+                <picture>https://cdn.bitrix24.ru/b10174365/iblock/c6c/c6ce907cbd2eca3efb07682a727d7d0d/k7.jpeg</picture>
+                <picture>https://cdn.bitrix24.ru/b10174365/iblock/c32/c32c74473838463e643bf1ea9a6dc7a7/k9.jpeg</picture>
+                <picture>https://cdn.bitrix24.ru/b10174365/iblock/230/2309acf7c9eb2d9b28345ff5e17ae82d/k10.jpeg</picture>
+                <picture>https://cdn.bitrix24.ru/b10174365/iblock/c55/c5502452c44472900fd1d6cb105e153c/k16.jpeg</picture>
+                <picture>https://cdn.bitrix24.ru/b10174365/iblock/65a/65ad02c719820f8022753fdbfe6b4c5e/kap_1.jpg</picture>
+                <store>true</store>
+                <delivery>true</delivery>
+                <name>Теплица оцинкованная "Триумф Капля" от 4м</name>
+                <vendor>Агросвар</vendor>
+                <vendorCode>agro-kaplya-4х100</vendorCode>
+                <model>agro-kaplya-4х100</model>
+                <description>Теплица из поликарбоната, каркас выполнен из стальной оцинкованной трубы, конькового типа.
+                    Поликарбонат 4мм с защитой UV.
+                </description>
+                <sales_notes>Оплата при доставке, длина от 4м, дуги 100/65 см.</sales_notes>
+                <manufacturer_warranty>true</manufacturer_warranty>
+                <param name="Тип">теплица</param>
+                <param name="Покрытие">поликарбонат</param>
+                <param name="Тип каркаса">профильная труба</param>
+                <param name="Оцинкованный каркас">есть</param>
+                <param name="Сечение каркаса">20х20 мм</param>
+                <param name="Наличие форточки">есть</param>
+                <param name="Длина" unit="метр">4</param>
+                <param name="Шаг между дугами" unit="см">100</param>
+                <param name="Толщина стенки трубы" unit="мм">1,0</param>
+                <param name="Наличие дверей">есть</param>
+                <param name="Грунтозацепы">опционально</param>
+                <param name="Брус">опционально</param>
+                <param name="Внутренняя перегородка">опционально</param>
+                <param name="Боковая форточка">опционально</param>
+                <param name="Механизм открывания форточки">опционально</param>
+                <param name="Монтаж">опционально</param>
+            </offer>
+
+            <offer id="123x4x100" available="true">
+                <url>https://flamingomarket.ru/katalog/item/agro_premium/</url>
+                <price>16000</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>2</categoryId>
+                <picture>https://cdn.bitrix24.ru/b10174365/iblock/df2/df2bd771843d0e66ec0748b23c291d8b/IMG-20170516-WA0008.jpg</picture>
+                <picture>https://cdn.bitrix24.ru/b10174365/iblock/093/093a2eff8969cfca9885b73f3f5ecdb2/narod_1.jpg</picture>
+                <store>true</store>
+                <delivery>true</delivery>
+                <name>Теплица оцинкованная "Агро Премиум" от 4м</name>
+                <vendor>Агросвар</vendor>
+                <vendorCode>agro-premium-4х100</vendorCode>
+                <model>agro-premium-4х100</model>
+                <description>Теплица из поликарбоната, каркас выполнен из стальной оцинкованной трубы. Поликарбонат 4мм
+                    с защитой UV.
+                </description>
+                <sales_notes>Оплата при доставке, длина от 4м, дуги 100/65 см.</sales_notes>
+                <manufacturer_warranty>true</manufacturer_warranty>
+                <param name="Тип">теплица</param>
+                <param name="Покрытие">поликарбонат</param>
+                <param name="Тип каркаса">профильная труба</param>
+                <param name="Оцинкованный каркас">есть</param>
+                <param name="Сечение каркаса">30х30 мм</param>
+                <param name="Наличие форточки">есть</param>
+                <param name="Длина" unit="метр">4</param>
+                <param name="Шаг между дугами" unit="см">100</param>
+                <param name="Толщина стенки трубы" unit="мм">1,4</param>
+                <param name="Наличие дверей">есть</param>
+                <param name="Грунтозацепы">опционально</param>
+                <param name="Брус">опционально</param>
+                <param name="Внутренняя перегородка">опционально</param>
+                <param name="Боковая форточка">опционально</param>
+                <param name="Механизм открывания форточки">опционально</param>
+                <param name="Монтаж">опционально</param>
+            </offer>
+            
+            <offer id="105x4x100" available="true">
+                <url>https://flamingomarket.ru/katalog/item/triumf_mini/</url>
+                <price>13500</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>2</categoryId>
+                <picture>https://cdn.bitrix24.ru/b10174365/iblock/5ca/5caafe7fe099de6b33574b915a79222b/m1.jpeg</picture>
+                <picture>https://cdn.bitrix24.ru/b10174365/iblock/0a0/0a099cccf58a7db5038234412f0b77e2/m2.jpeg</picture>
+                <picture>https://cdn.bitrix24.ru/b10174365/iblock/a5c/a5c17f4561795c3ff58cf321ab6d4b69/m3.jpeg</picture>
+                <picture>https://cdn.bitrix24.ru/b10174365/iblock/930/930fadaa6af80a3268a233aab019d6ee/m4.jpeg</picture>
+                <picture>https://cdn.bitrix24.ru/b10174365/iblock/b54/b544d12153d05e9ea00400d3eb91e42b/m7.jpeg</picture>
+                <picture>https://cdn.bitrix24.ru/b10174365/iblock/6bb/6bbf92e870ad88cf400b47fbaca54b8b/m8.jpeg</picture>
+                <picture>https://cdn.bitrix24.ru/b10174365/iblock/f1d/f1d7087eb10ff0079a9aefa755d2a901/m9.jpeg</picture>
+                <store>true</store>
+                <delivery>true</delivery>
+                <name>Теплица оцинкованная "Триумф Мини" от 4м</name>
+                <vendor>Триумф</vendor>
+                <vendorCode>triumf-mini-4х100</vendorCode>
+                <model>triumf-mini-4х100</model>
+                <description>Теплица из поликарбоната, каркас выполнен из стальной оцинкованной трубы. Поликарбонат 4мм
+                    с защитой UV.
+                </description>
+                <sales_notes>Оплата при доставке, длина от 4м, дуги 100/65 см.</sales_notes>
+                <manufacturer_warranty>true</manufacturer_warranty>
+                <param name="Тип">теплица</param>
+                <param name="Покрытие">поликарбонат</param>
+                <param name="Тип каркаса">профильная труба</param>
+                <param name="Оцинкованный каркас">есть</param>
+                <param name="Сечение каркаса">20х20 мм</param>
+                <param name="Наличие форточки">есть</param>
+                <param name="Длина" unit="метр">4</param>
+                <param name="Шаг между дугами" unit="см">100</param>
+                <param name="Толщина стенки трубы" unit="мм">1,0</param>
+                <param name="Наличие дверей">есть</param>
+                <param name="Грунтозацепы">опционально</param>
+                <param name="Брус">опционально</param>
+                <param name="Внутренняя перегородка">опционально</param>
+                <param name="Боковая форточка">опционально</param>
+                <param name="Механизм открывания форточки">опционально</param>
+                <param name="Монтаж">опционально</param>
+            </offer>
+
+            <offer id="159x4x100" available="true">
+                <url>https://flamingomarket.ru/katalog/item/triumf_kremlevskaya/</url>
+                <price>18500</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>2</categoryId>
+                <picture>https://cdn.bitrix24.ru/b10174365/iblock/755/755c5720fe9db76d29234c99aeaa7752/kreml1.jpg</picture>
+                <picture>https://cdn.bitrix24.ru/b10174365/iblock/71f/71f1095b006f61d452c23a757776d8f7/kreml2.jpg</picture>
+                <picture>https://cdn.bitrix24.ru/b10174365/iblock/03e/03e2d960f1963ce3a9a7c23d2d0b33ec/tkr_1.jpg</picture>
+                <store>true</store>
+                <delivery>true</delivery>
+                <name>Теплица оцинкованная "Триумф Кремлевская" от 4м</name>
+                <vendor>Триумф</vendor>
+                <vendorCode>triumf-kremlevskaya-4х100</vendorCode>
+                <model>triumf-kremlevskaya-4х100</model>
+                <description>Теплица из поликарбоната, каркас выполнен из сдвоенной стальной оцинкованной трубы.
+                    Поликарбонат 4мм с защитой UV.
+                </description>
+                <sales_notes>Оплата при доставке, длина от 4м, дуги 100/65 см.</sales_notes>
+                <manufacturer_warranty>true</manufacturer_warranty>
+                <param name="Тип">теплица</param>
+                <param name="Покрытие">поликарбонат</param>
+                <param name="Тип каркаса">профильная труба</param>
+                <param name="Оцинкованный каркас">есть</param>
+                <param name="Сечение каркаса">20х20 мм</param>
+                <param name="Наличие форточки">есть</param>
+                <param name="Длина" unit="метр">4</param>
+                <param name="Шаг между дугами" unit="см">100</param>
+                <param name="Толщина стенки трубы" unit="мм">1,0</param>
+                <param name="Наличие дверей">есть</param>
+                <param name="Грунтозацепы">опционально</param>
+                <param name="Брус">опционально</param>
+                <param name="Внутренняя перегородка">опционально</param>
+                <param name="Боковая форточка">опционально</param>
+                <param name="Механизм открывания форточки">опционально</param>
+                <param name="Монтаж">опционально</param>
+            </offer>
+
+            <offer id="141x4x100" available="true">
+                <url>https://flamingomarket.ru/katalog/item/agro_standart/</url>
+                <price>15000</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>2</categoryId>
+                <picture>https://cdn.bitrix24.ru/b10174365/iblock/eff/eff3a788845a54496ea08192d88993b7/IMG_3425.JPG</picture>
+                <picture>https://cdn.bitrix24.ru/b10174365/iblock/aaf/aafce38f9336b081605fbe68d97db85c/standart_5.jpg</picture>
+                <store>true</store>
+                <delivery>true</delivery>
+                <name>Теплица оцинкованная "Агро Стандарт" от 4м</name>
+                <vendor>Агросвар</vendor>
+                <vendorCode>agro-standart-4х100</vendorCode>
+                <model>agro-standart-4х100</model>
+                <description>Теплица из поликарбоната, каркас выполнен из стальной оцинкованной трубы. Поликарбонат 4мм
+                    с защитой UV.
+                </description>
+                <sales_notes>Оплата при доставке, длина от 4м, дуги 100/65 см.</sales_notes>
+                <manufacturer_warranty>true</manufacturer_warranty>
+                <param name="Тип">теплица</param>
+                <param name="Покрытие">поликарбонат</param>
+                <param name="Тип каркаса">профильная труба</param>
+                <param name="Оцинкованный каркас">есть</param>
+                <param name="Сечение каркаса">30х30 мм</param>
+                <param name="Наличие форточки">есть</param>
+                <param name="Длина" unit="метр">4</param>
+                <param name="Шаг между дугами" unit="см">100</param>
+                <param name="Толщина стенки трубы" unit="мм">1,0</param>
+                <param name="Наличие дверей">есть</param>
+                <param name="Грунтозацепы">опционально</param>
+                <param name="Брус">опционально</param>
+                <param name="Внутренняя перегородка">опционально</param>
+                <param name="Боковая форточка">опционально</param>
+                <param name="Механизм открывания форточки">опционально</param>
+                <param name="Монтаж">опционально</param>
+            </offer>
+
+            <offer id="197x2x100" available="true">
+                <url>https://flamingomarket.ru/katalog/item/triumf_babochka/</url>
+                <price>4800</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>2</categoryId>
+                <picture>https://cdn.bitrix24.ru/b10174365/iblock/a17/a17f72de622c60043fc26185f408790f/fly_1.jpg</picture>
+                <picture>https://cdn.bitrix24.ru/b10174365/iblock/4e3/4e35bbafccd51ba38edaa85010403333/fly_2.jpg</picture>
+                <picture>https://cdn.bitrix24.ru/b10174365/iblock/960/9606e919ed6d403b2c2b8360374daf7a/fly2.jpg</picture>
+                <picture>https://cdn.bitrix24.ru/b10174365/iblock/831/8319e5804d09e0f4861cde98ac99beb9/DSC04351.jpg</picture>
+                <store>true</store>
+                <delivery>true</delivery>
+                <name>Мини-теплица "Триумф Бабочка"</name>
+                <vendor>Триумф</vendor>
+                <vendorCode>triumf-butterfly</vendorCode>
+                <model>triumf-butterfly</model>
+                <description>Теплица из поликарбоната, каркас выполнен из стальной оцинкованной трубы. Поликарбонат 4мм
+                    с защитой UV.
+                </description>
+                <sales_notes>Оплата при доставке товара.</sales_notes>
+                <manufacturer_warranty>true</manufacturer_warranty>
+                <param name="Тип">теплица</param>
+                <param name="Покрытие">поликарбонат</param>
+                <param name="Тип каркаса">профильная труба</param>
+                <param name="Оцинкованный каркас">есть</param>
+                <param name="Сечение каркаса">20х20 мм</param>
+                <param name="Наличие форточки">есть</param>
+                <param name="Длина" unit="метр">2</param>
+                <param name="Шаг между дугами" unit="см">100</param>
+                <param name="Толщина стенки трубы" unit="мм">1,0</param>
+                <param name="Наличие дверей">есть</param>
+                <param name="Грунтозацепы">опционально</param>
+                <param name="Брус">опционально</param>
+                <param name="Внутренняя перегородка">опционально</param>
+                <param name="Боковая форточка">опционально</param>
+                <param name="Механизм открывания форточки">опционально</param>
+                <param name="Монтаж">опционально</param>
+            </offer>
+
+            <offer id="215x4x100" available="true">
+                <url>https://flamingomarket.ru/katalog/item/triumf_aluma/</url>
+                <price>19500</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>2</categoryId>
+                <picture>https://cdn.bitrix24.ru/b10174365/iblock/ce3/ce3af9e3bc5378a457f8e5767d97f19b/aluma_1.jpg</picture>
+                <picture>https://cdn.bitrix24.ru/b10174365/iblock/ae9/ae93384679929fbb6ed32d73acb04e6b/aluma_2.jpg</picture>
+                <picture>https://cdn.bitrix24.ru/b10174365/iblock/bc1/bc13a7dbfc9ef1b2c34048d63f7a5d49/aluma_3.jpg</picture>
+                <store>true</store>
+                <delivery>true</delivery>
+                <name>Теплица алюминиевая "Триумф Алюма" от 4м</name>
+                <vendor>Триумф</vendor>
+                <vendorCode>triumf-aluma-4х100</vendorCode>
+                <model>triumf-aluma-4х100</model>
+                <description>Теплица из поликарбоната, каркас выполнен из алюминиевой трубы. Поликарбонат 4мм с защитой
+                    UV.
+                </description>
+                <sales_notes>Оплата при доставке, длина от 4м, дуги 100/65 см.</sales_notes>
+                <manufacturer_warranty>true</manufacturer_warranty>
+                <param name="Тип">теплица</param>
+                <param name="Покрытие">поликарбонат</param>
+                <param name="Тип каркаса">профильная труба</param>
+                <param name="Сечение каркаса">30х30 мм</param>
+                <param name="Наличие форточки">есть</param>
+                <param name="Длина" unit="метр">4</param>
+                <param name="Шаг между дугами" unit="см">100</param>
+                <param name="Толщина стенки трубы" unit="мм">1,5</param>
+                <param name="Наличие дверей">есть</param>
+                <param name="Грунтозацепы">опционально</param>
+                <param name="Брус">опционально</param>
+                <param name="Внутренняя перегородка">опционально</param>
+                <param name="Боковая форточка">опционально</param>
+                <param name="Механизм открывания форточки">опционально</param>
+                <param name="Монтаж">опционально</param>
+            </offer>
+
+
+        </offers>
+    </shop>
+</yml_catalog>

@@ -1,0 +1,2762 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2019-03-01 17:00">
+    <shop>
+        <name>Triumf</name>
+        <company>Triumf</company>
+        <url>https://triumf40.ru/</url>
+        <currencies>
+            <currency id="RUR" rate="1"/>
+        </currencies>
+        <categories>
+            <category id="2">Теплицы и каркасы</category>
+            <category id="11">Навесы</category>
+            <category id="12">Для дачи</category>
+        </categories>
+        <delivery-options>
+            <option cost="1000" days="3"/>
+        </delivery-options>
+        <offers>
+            <offer id="69x4x100" available="true">
+                <url>https://triumf40.ru/production/greenhouses/house?l=4&amp;s=100</url>
+                <price>16800</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>2</categoryId>
+                <picture>https://triumf40.ru/images/domik/d1-.jpg</picture>
+                <picture>https://triumf40.ru/images/domik/d2.jpg</picture>
+                <picture>https://triumf40.ru/images/domik/d3.jpg</picture>
+                <picture>https://triumf40.ru/images/domik/d4.jpg</picture>
+                <store>true</store>
+                <delivery>true</delivery>
+                <name>Теплица оцинкованная "Триумф Домик" 4м (шаг 100см)</name>
+                <vendor>Триумф</vendor>
+                <vendorCode>triumf-house-4х100</vendorCode>
+                <model>triumf-house-4х100</model>
+                <description>Теплица из поликарбоната, каркас выполнен из стальной оцинкованной трубы. Поликарбонат 4мм
+                    с защитой UV.
+                </description>
+                <sales_notes>Оплата при доставке товара</sales_notes>
+                <manufacturer_warranty>true</manufacturer_warranty>
+                <param name="Тип">теплица</param>
+                <param name="Покрытие">поликарбонат</param>
+                <param name="Тип каркаса">профильная труба</param>
+                <param name="Оцинкованный каркас">есть</param>
+                <param name="Сечение каркаса">30х30 мм</param>
+                <param name="Наличие форточки">есть</param>
+                <param name="Длина" unit="метр">4</param>
+                <param name="Шаг между дугами" unit="см">100</param>
+                <param name="Толщина стенки трубы" unit="мм">1,0</param>
+                <param name="Наличие дверей">есть</param>
+                <param name="Грунтозацепы">опционально</param>
+                <param name="Брус">опционально</param>
+                <param name="Внутренняя перегородка">опционально</param>
+                <param name="Боковая форточка">опционально</param>
+                <param name="Механизм открывания форточки">опционально</param>
+                <param name="Монтаж">опционально</param>
+            </offer>
+            <offer id="69x4x65" available="true">
+                <url>https://triumf40.ru/production/greenhouses/house?l=4&amp;s=65</url>
+                <price>18400</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>2</categoryId>
+                <picture>https://triumf40.ru/images/domik/d1-.jpg</picture>
+                <picture>https://triumf40.ru/images/domik/d2.jpg</picture>
+                <picture>https://triumf40.ru/images/domik/d3.jpg</picture>
+                <picture>https://triumf40.ru/images/domik/d4.jpg</picture>
+                <store>true</store>
+                <delivery>true</delivery>
+                <name>Теплица оцинкованная "Триумф Домик" 4м (шаг 65см)</name>
+                <vendor>Триумф</vendor>
+                <vendorCode>triumf-house-4х65</vendorCode>
+                <model>triumf-house-4х65</model>
+                <description>Теплица из поликарбоната, каркас выполнен из стальной оцинкованной трубы. Поликарбонат 4мм
+                    с защитой UV.
+                </description>
+                <sales_notes>Оплата при доставке товара</sales_notes>
+                <manufacturer_warranty>true</manufacturer_warranty>
+                <param name="Тип">теплица</param>
+                <param name="Покрытие">поликарбонат</param>
+                <param name="Тип каркаса">профильная труба</param>
+                <param name="Оцинкованный каркас">есть</param>
+                <param name="Сечение каркаса">30х30 мм</param>
+                <param name="Наличие форточки">есть</param>
+                <param name="Длина" unit="метр">4</param>
+                <param name="Шаг между дугами" unit="см">65</param>
+                <param name="Толщина стенки трубы" unit="мм">1,0</param>
+                <param name="Наличие дверей">есть</param>
+                <param name="Грунтозацепы">опционально</param>
+                <param name="Брус">опционально</param>
+                <param name="Внутренняя перегородка">опционально</param>
+                <param name="Боковая форточка">опционально</param>
+                <param name="Механизм открывания форточки">опционально</param>
+                <param name="Монтаж">опционально</param>
+            </offer>
+            <offer id="69x6x100" available="true">
+                <url>https://triumf40.ru/production/greenhouses/house?l=6&amp;s=100</url>
+                <price>21150</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>2</categoryId>
+                <picture>https://triumf40.ru/images/domik/d1-.jpg</picture>
+                <picture>https://triumf40.ru/images/domik/d2.jpg</picture>
+                <picture>https://triumf40.ru/images/domik/d3.jpg</picture>
+                <picture>https://triumf40.ru/images/domik/d4.jpg</picture>
+                <store>true</store>
+                <delivery>true</delivery>
+                <name>Теплица оцинкованная "Триумф Домик" 6м (шаг 100см)</name>
+                <vendor>Триумф</vendor>
+                <vendorCode>triumf-house-6х100</vendorCode>
+                <model>triumf-house-6х100</model>
+                <description>Теплица из поликарбоната, каркас выполнен из стальной оцинкованной трубы. Поликарбонат 4мм
+                    с защитой UV.
+                </description>
+                <sales_notes>Оплата при доставке товара</sales_notes>
+                <manufacturer_warranty>true</manufacturer_warranty>
+                <param name="Тип">теплица</param>
+                <param name="Покрытие">поликарбонат</param>
+                <param name="Тип каркаса">профильная труба</param>
+                <param name="Оцинкованный каркас">есть</param>
+                <param name="Сечение каркаса">30х30 мм</param>
+                <param name="Наличие форточки">есть</param>
+                <param name="Длина" unit="метр">6</param>
+                <param name="Шаг между дугами" unit="см">100</param>
+                <param name="Толщина стенки трубы" unit="мм">1,0</param>
+                <param name="Наличие дверей">есть</param>
+                <param name="Грунтозацепы">опционально</param>
+                <param name="Брус">опционально</param>
+                <param name="Внутренняя перегородка">опционально</param>
+                <param name="Боковая форточка">опционально</param>
+                <param name="Механизм открывания форточки">опционально</param>
+                <param name="Монтаж">опционально</param>
+            </offer>
+            <offer id="69x6x65" available="true">
+                <url>https://triumf40.ru/production/greenhouses/house?l=6&amp;s=65</url>
+                <price>23550</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>2</categoryId>
+                <picture>https://triumf40.ru/images/domik/d1-.jpg</picture>
+                <picture>https://triumf40.ru/images/domik/d2.jpg</picture>
+                <picture>https://triumf40.ru/images/domik/d3.jpg</picture>
+                <picture>https://triumf40.ru/images/domik/d4.jpg</picture>
+                <store>true</store>
+                <delivery>true</delivery>
+                <name>Теплица оцинкованная "Триумф Домик" 6м (шаг 65см)</name>
+                <vendor>Триумф</vendor>
+                <vendorCode>triumf-house-6х65</vendorCode>
+                <model>triumf-house-6х65</model>
+                <description>Теплица из поликарбоната, каркас выполнен из стальной оцинкованной трубы. Поликарбонат 4мм
+                    с защитой UV.
+                </description>
+                <sales_notes>Оплата при доставке товара</sales_notes>
+                <manufacturer_warranty>true</manufacturer_warranty>
+                <param name="Тип">теплица</param>
+                <param name="Покрытие">поликарбонат</param>
+                <param name="Тип каркаса">профильная труба</param>
+                <param name="Оцинкованный каркас">есть</param>
+                <param name="Сечение каркаса">30х30 мм</param>
+                <param name="Наличие форточки">есть</param>
+                <param name="Длина" unit="метр">6</param>
+                <param name="Шаг между дугами" unit="см">65</param>
+                <param name="Толщина стенки трубы" unit="мм">1,0</param>
+                <param name="Наличие дверей">есть</param>
+                <param name="Грунтозацепы">опционально</param>
+                <param name="Брус">опционально</param>
+                <param name="Внутренняя перегородка">опционально</param>
+                <param name="Боковая форточка">опционально</param>
+                <param name="Механизм открывания форточки">опционально</param>
+                <param name="Монтаж">опционально</param>
+            </offer>
+            <offer id="69x8x100" available="true">
+                <url>https://triumf40.ru/production/greenhouses/house?l=8&amp;s=100</url>
+                <price>25500</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>2</categoryId>
+                <picture>https://triumf40.ru/images/domik/d1-.jpg</picture>
+                <picture>https://triumf40.ru/images/domik/d2.jpg</picture>
+                <picture>https://triumf40.ru/images/domik/d3.jpg</picture>
+                <picture>https://triumf40.ru/images/domik/d4.jpg</picture>
+                <store>true</store>
+                <delivery>true</delivery>
+                <name>Теплица оцинкованная "Триумф Домик" 8м (шаг 100см)</name>
+                <vendor>Триумф</vendor>
+                <vendorCode>triumf-house-8х100</vendorCode>
+                <model>triumf-house-8х100</model>
+                <description>Теплица из поликарбоната, каркас выполнен из стальной оцинкованной трубы. Поликарбонат 4мм
+                    с защитой UV.
+                </description>
+                <sales_notes>Оплата при доставке товара</sales_notes>
+                <manufacturer_warranty>true</manufacturer_warranty>
+                <param name="Тип">теплица</param>
+                <param name="Покрытие">поликарбонат</param>
+                <param name="Тип каркаса">профильная труба</param>
+                <param name="Оцинкованный каркас">есть</param>
+                <param name="Сечение каркаса">30х30 мм</param>
+                <param name="Наличие форточки">есть</param>
+                <param name="Длина" unit="метр">8</param>
+                <param name="Шаг между дугами" unit="см">100</param>
+                <param name="Толщина стенки трубы" unit="мм">1,0</param>
+                <param name="Наличие дверей">есть</param>
+                <param name="Грунтозацепы">опционально</param>
+                <param name="Брус">опционально</param>
+                <param name="Внутренняя перегородка">опционально</param>
+                <param name="Боковая форточка">опционально</param>
+                <param name="Механизм открывания форточки">опционально</param>
+                <param name="Монтаж">опционально</param>
+            </offer>
+            <offer id="69x8x65" available="true">
+                <url>https://triumf40.ru/production/greenhouses/house?l=8&amp;s=65</url>
+                <price>28700</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>2</categoryId>
+                <picture>https://triumf40.ru/images/domik/d1-.jpg</picture>
+                <picture>https://triumf40.ru/images/domik/d2.jpg</picture>
+                <picture>https://triumf40.ru/images/domik/d3.jpg</picture>
+                <picture>https://triumf40.ru/images/domik/d4.jpg</picture>
+                <store>true</store>
+                <delivery>true</delivery>
+                <name>Теплица оцинкованная "Триумф Домик" 8м (шаг 65см)</name>
+                <vendor>Триумф</vendor>
+                <vendorCode>triumf-house-8х65</vendorCode>
+                <model>triumf-house-8х65</model>
+                <description>Теплица из поликарбоната, каркас выполнен из стальной оцинкованной трубы. Поликарбонат 4мм
+                    с защитой UV.
+                </description>
+                <sales_notes>Оплата при доставке товара</sales_notes>
+                <manufacturer_warranty>true</manufacturer_warranty>
+                <param name="Тип">теплица</param>
+                <param name="Покрытие">поликарбонат</param>
+                <param name="Тип каркаса">профильная труба</param>
+                <param name="Оцинкованный каркас">есть</param>
+                <param name="Сечение каркаса">30х30 мм</param>
+                <param name="Наличие форточки">есть</param>
+                <param name="Длина" unit="метр">8</param>
+                <param name="Шаг между дугами" unit="см">65</param>
+                <param name="Толщина стенки трубы" unit="мм">1,0</param>
+                <param name="Наличие дверей">есть</param>
+                <param name="Грунтозацепы">опционально</param>
+                <param name="Брус">опционально</param>
+                <param name="Внутренняя перегородка">опционально</param>
+                <param name="Боковая форточка">опционально</param>
+                <param name="Механизм открывания форточки">опционально</param>
+                <param name="Монтаж">опционально</param>
+            </offer>
+            <offer id="69x10x100" available="true">
+                <url>https://triumf40.ru/production/greenhouses/house?l=10&amp;s=100</url>
+                <price>29850</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>2</categoryId>
+                <picture>https://triumf40.ru/images/domik/d1-.jpg</picture>
+                <picture>https://triumf40.ru/images/domik/d2.jpg</picture>
+                <picture>https://triumf40.ru/images/domik/d3.jpg</picture>
+                <picture>https://triumf40.ru/images/domik/d4.jpg</picture>
+                <store>true</store>
+                <delivery>true</delivery>
+                <name>Теплица оцинкованная "Триумф Домик" 10м (шаг 100см)</name>
+                <vendor>Триумф</vendor>
+                <vendorCode>triumf-house-10х100</vendorCode>
+                <model>triumf-house-10х100</model>
+                <description>Теплица из поликарбоната, каркас выполнен из стальной оцинкованной трубы. Поликарбонат 4мм
+                    с защитой UV.
+                </description>
+                <sales_notes>Оплата при доставке товара</sales_notes>
+                <manufacturer_warranty>true</manufacturer_warranty>
+                <param name="Тип">теплица</param>
+                <param name="Покрытие">поликарбонат</param>
+                <param name="Тип каркаса">профильная труба</param>
+                <param name="Оцинкованный каркас">есть</param>
+                <param name="Сечение каркаса">30х30 мм</param>
+                <param name="Наличие форточки">есть</param>
+                <param name="Длина" unit="метр">10</param>
+                <param name="Шаг между дугами" unit="см">100</param>
+                <param name="Толщина стенки трубы" unit="мм">1,0</param>
+                <param name="Наличие дверей">есть</param>
+                <param name="Грунтозацепы">опционально</param>
+                <param name="Брус">опционально</param>
+                <param name="Внутренняя перегородка">опционально</param>
+                <param name="Боковая форточка">опционально</param>
+                <param name="Механизм открывания форточки">опционально</param>
+                <param name="Монтаж">опционально</param>
+            </offer>
+            <offer id="69x10x65" available="true">
+                <url>https://triumf40.ru/production/greenhouses/house?l=10&amp;s=65</url>
+                <price>33850</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>2</categoryId>
+                <picture>https://triumf40.ru/images/domik/d1-.jpg</picture>
+                <picture>https://triumf40.ru/images/domik/d2.jpg</picture>
+                <picture>https://triumf40.ru/images/domik/d3.jpg</picture>
+                <picture>https://triumf40.ru/images/domik/d4.jpg</picture>
+                <store>true</store>
+                <delivery>true</delivery>
+                <name>Теплица оцинкованная "Триумф Домик" 10м (шаг 65см)</name>
+                <vendor>Триумф</vendor>
+                <vendorCode>triumf-house-10х65</vendorCode>
+                <model>triumf-house-10х65</model>
+                <description>Теплица из поликарбоната, каркас выполнен из стальной оцинкованной трубы. Поликарбонат 4мм
+                    с защитой UV.
+                </description>
+                <sales_notes>Оплата при доставке товара</sales_notes>
+                <manufacturer_warranty>true</manufacturer_warranty>
+                <param name="Тип">теплица</param>
+                <param name="Покрытие">поликарбонат</param>
+                <param name="Тип каркаса">профильная труба</param>
+                <param name="Оцинкованный каркас">есть</param>
+                <param name="Сечение каркаса">30х30 мм</param>
+                <param name="Наличие форточки">есть</param>
+                <param name="Длина" unit="метр">10</param>
+                <param name="Шаг между дугами" unit="см">65</param>
+                <param name="Толщина стенки трубы" unit="мм">1,0</param>
+                <param name="Наличие дверей">есть</param>
+                <param name="Грунтозацепы">опционально</param>
+                <param name="Брус">опционально</param>
+                <param name="Внутренняя перегородка">опционально</param>
+                <param name="Боковая форточка">опционально</param>
+                <param name="Механизм открывания форточки">опционально</param>
+                <param name="Монтаж">опционально</param>
+            </offer>
+            <offer id="66x4x100" available="true">
+                <url>https://triumf40.ru/production/greenhouses/sphera?l=4&amp;s=100</url>
+                <price>21800</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>2</categoryId>
+                <picture>https://triumf40.ru/images/sphera/42520761.jpg</picture>
+                <picture>https://triumf40.ru/images/sphera/IMG_0301.JPG</picture>
+                <picture>https://triumf40.ru/images/sphera/IMG_0302.JPG</picture>
+                <picture>https://triumf40.ru/images/sphera/IMG_0305.JPG</picture>
+                <picture>https://triumf40.ru/images/sphera/opensky.jpg</picture>
+                <store>true</store>
+                <delivery>true</delivery>
+                <name>Теплица оцинкованная "Триумф Сфера" (теплица с раздвижной крышей) 4м (шаг 100см)</name>
+                <vendor>Триумф</vendor>
+                <vendorCode>triumf-sphera-4х100</vendorCode>
+                <model>triumf-sphera-4х100</model>
+                <description>Теплица из поликарбоната, каркас выполнен из стальной оцинкованной трубы с раздвижной
+                    крышей. Поликарбонат 4мм с защитой UV.
+                </description>
+                <sales_notes>Оплата при доставке товара</sales_notes>
+                <manufacturer_warranty>true</manufacturer_warranty>
+                <param name="Тип">теплица</param>
+                <param name="Покрытие">поликарбонат</param>
+                <param name="Тип каркаса">профильная труба</param>
+                <param name="Оцинкованный каркас">есть</param>
+                <param name="Сечение каркаса">20х20 мм</param>
+                <param name="Наличие форточки">есть</param>
+                <param name="Длина" unit="метр">4</param>
+                <param name="Шаг между дугами" unit="см">100</param>
+                <param name="Толщина стенки трубы" unit="мм">1,0</param>
+                <param name="Наличие дверей">есть</param>
+                <param name="Грунтозацепы">опционально</param>
+                <param name="Брус">опционально</param>
+                <param name="Внутренняя перегородка">опционально</param>
+                <param name="Боковая форточка">опционально</param>
+                <param name="Механизм открывания форточки">опционально</param>
+                <param name="Монтаж">опционально</param>
+            </offer>
+            <offer id="66x4x65" available="true">
+                <url>https://triumf40.ru/production/greenhouses/sphera?l=4&amp;s=65</url>
+                <price>23000</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>2</categoryId>
+                <picture>https://triumf40.ru/images/sphera/42520761.jpg</picture>
+                <picture>https://triumf40.ru/images/sphera/IMG_0301.JPG</picture>
+                <picture>https://triumf40.ru/images/sphera/IMG_0302.JPG</picture>
+                <picture>https://triumf40.ru/images/sphera/IMG_0305.JPG</picture>
+                <picture>https://triumf40.ru/images/sphera/opensky.jpg</picture>
+                <store>true</store>
+                <delivery>true</delivery>
+                <name>Теплица оцинкованная "Триумф Сфера" (теплица с раздвижной крышей) 4м (шаг 65см)</name>
+                <vendor>Триумф</vendor>
+                <vendorCode>triumf-sphera-4х65</vendorCode>
+                <model>triumf-sphera-4х65</model>
+                <description>Теплица из поликарбоната, каркас выполнен из стальной оцинкованной трубы с раздвижной
+                    крышей. Поликарбонат 4мм с защитой UV.
+                </description>
+                <sales_notes>Оплата при доставке товара</sales_notes>
+                <manufacturer_warranty>true</manufacturer_warranty>
+                <param name="Тип">теплица</param>
+                <param name="Покрытие">поликарбонат</param>
+                <param name="Тип каркаса">профильная труба</param>
+                <param name="Оцинкованный каркас">есть</param>
+                <param name="Сечение каркаса">20х20 мм</param>
+                <param name="Наличие форточки">есть</param>
+                <param name="Длина" unit="метр">4</param>
+                <param name="Шаг между дугами" unit="см">65</param>
+                <param name="Толщина стенки трубы" unit="мм">1,0</param>
+                <param name="Наличие дверей">есть</param>
+                <param name="Грунтозацепы">опционально</param>
+                <param name="Брус">опционально</param>
+                <param name="Внутренняя перегородка">опционально</param>
+                <param name="Боковая форточка">опционально</param>
+                <param name="Механизм открывания форточки">опционально</param>
+                <param name="Монтаж">опционально</param>
+            </offer>
+            <offer id="66x6x100" available="true">
+                <url>https://triumf40.ru/production/greenhouses/sphera?l=6&amp;s=100</url>
+                <price>27700</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>2</categoryId>
+                <picture>https://triumf40.ru/images/sphera/42520761.jpg</picture>
+                <picture>https://triumf40.ru/images/sphera/IMG_0301.JPG</picture>
+                <picture>https://triumf40.ru/images/sphera/IMG_0302.JPG</picture>
+                <picture>https://triumf40.ru/images/sphera/IMG_0305.JPG</picture>
+                <picture>https://triumf40.ru/images/sphera/opensky.jpg</picture>
+                <store>true</store>
+                <delivery>true</delivery>
+                <name>Теплица оцинкованная "Триумф Сфера" (теплица с раздвижной крышей) 6м (шаг 100см)</name>
+                <vendor>Триумф</vendor>
+                <vendorCode>triumf-sphera-6х100</vendorCode>
+                <model>triumf-sphera-6х100</model>
+                <description>Теплица из поликарбоната, каркас выполнен из стальной оцинкованной трубы с раздвижной
+                    крышей. Поликарбонат 4мм с защитой UV.
+                </description>
+                <sales_notes>Оплата при доставке товара</sales_notes>
+                <manufacturer_warranty>true</manufacturer_warranty>
+                <param name="Тип">теплица</param>
+                <param name="Покрытие">поликарбонат</param>
+                <param name="Тип каркаса">профильная труба</param>
+                <param name="Оцинкованный каркас">есть</param>
+                <param name="Сечение каркаса">20х20 мм</param>
+                <param name="Наличие форточки">есть</param>
+                <param name="Длина" unit="метр">6</param>
+                <param name="Шаг между дугами" unit="см">100</param>
+                <param name="Толщина стенки трубы" unit="мм">1,0</param>
+                <param name="Наличие дверей">есть</param>
+                <param name="Грунтозацепы">опционально</param>
+                <param name="Брус">опционально</param>
+                <param name="Внутренняя перегородка">опционально</param>
+                <param name="Боковая форточка">опционально</param>
+                <param name="Механизм открывания форточки">опционально</param>
+                <param name="Монтаж">опционально</param>
+            </offer>
+            <offer id="66x6x65" available="true">
+                <url>https://triumf40.ru/production/greenhouses/sphera?l=6&amp;s=65</url>
+                <price>30000</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>2</categoryId>
+                <picture>https://triumf40.ru/images/sphera/42520761.jpg</picture>
+                <picture>https://triumf40.ru/images/sphera/IMG_0301.JPG</picture>
+                <picture>https://triumf40.ru/images/sphera/IMG_0302.JPG</picture>
+                <picture>https://triumf40.ru/images/sphera/IMG_0305.JPG</picture>
+                <picture>https://triumf40.ru/images/sphera/opensky.jpg</picture>
+                <store>true</store>
+                <delivery>true</delivery>
+                <name>Теплица оцинкованная "Триумф Сфера" (теплица с раздвижной крышей) 6м (шаг 65см)</name>
+                <vendor>Триумф</vendor>
+                <vendorCode>triumf-sphera-6х65</vendorCode>
+                <model>triumf-sphera-6х65</model>
+                <description>Теплица из поликарбоната, каркас выполнен из стальной оцинкованной трубы с раздвижной
+                    крышей. Поликарбонат 4мм с защитой UV.
+                </description>
+                <sales_notes>Оплата при доставке товара</sales_notes>
+                <manufacturer_warranty>true</manufacturer_warranty>
+                <param name="Тип">теплица</param>
+                <param name="Покрытие">поликарбонат</param>
+                <param name="Тип каркаса">профильная труба</param>
+                <param name="Оцинкованный каркас">есть</param>
+                <param name="Сечение каркаса">20х20 мм</param>
+                <param name="Наличие форточки">есть</param>
+                <param name="Длина" unit="метр">6</param>
+                <param name="Шаг между дугами" unit="см">65</param>
+                <param name="Толщина стенки трубы" unit="мм">1,0</param>
+                <param name="Наличие дверей">есть</param>
+                <param name="Грунтозацепы">опционально</param>
+                <param name="Брус">опционально</param>
+                <param name="Внутренняя перегородка">опционально</param>
+                <param name="Боковая форточка">опционально</param>
+                <param name="Механизм открывания форточки">опционально</param>
+                <param name="Монтаж">опционально</param>
+            </offer>
+            <offer id="66x8x100" available="true">
+                <url>https://triumf40.ru/production/greenhouses/sphera?l=8&amp;s=100</url>
+                <price>34000</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>2</categoryId>
+                <picture>https://triumf40.ru/images/sphera/42520761.jpg</picture>
+                <picture>https://triumf40.ru/images/sphera/IMG_0301.JPG</picture>
+                <picture>https://triumf40.ru/images/sphera/IMG_0302.JPG</picture>
+                <picture>https://triumf40.ru/images/sphera/IMG_0305.JPG</picture>
+                <picture>https://triumf40.ru/images/sphera/opensky.jpg</picture>
+                <store>true</store>
+                <delivery>true</delivery>
+                <name>Теплица оцинкованная "Триумф Сфера" (теплица с раздвижной крышей) 8м (шаг 100см)</name>
+                <vendor>Триумф</vendor>
+                <vendorCode>triumf-sphera-8х100</vendorCode>
+                <model>triumf-sphera-8х100</model>
+                <description>Теплица из поликарбоната, каркас выполнен из стальной оцинкованной трубы с раздвижной
+                    крышей. Поликарбонат 4мм с защитой UV.
+                </description>
+                <sales_notes>Оплата при доставке товара</sales_notes>
+                <manufacturer_warranty>true</manufacturer_warranty>
+                <param name="Тип">теплица</param>
+                <param name="Покрытие">поликарбонат</param>
+                <param name="Тип каркаса">профильная труба</param>
+                <param name="Оцинкованный каркас">есть</param>
+                <param name="Сечение каркаса">20х20 мм</param>
+                <param name="Наличие форточки">есть</param>
+                <param name="Длина" unit="метр">8</param>
+                <param name="Шаг между дугами" unit="см">100</param>
+                <param name="Толщина стенки трубы" unit="мм">1,0</param>
+                <param name="Наличие дверей">есть</param>
+                <param name="Грунтозацепы">опционально</param>
+                <param name="Брус">опционально</param>
+                <param name="Внутренняя перегородка">опционально</param>
+                <param name="Боковая форточка">опционально</param>
+                <param name="Механизм открывания форточки">опционально</param>
+                <param name="Монтаж">опционально</param>
+            </offer>
+            <offer id="66x8x65" available="true">
+                <url>https://triumf40.ru/production/greenhouses/sphera?l=8&amp;s=65</url>
+                <price>37000</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>2</categoryId>
+                <picture>https://triumf40.ru/images/sphera/42520761.jpg</picture>
+                <picture>https://triumf40.ru/images/sphera/IMG_0301.JPG</picture>
+                <picture>https://triumf40.ru/images/sphera/IMG_0302.JPG</picture>
+                <picture>https://triumf40.ru/images/sphera/IMG_0305.JPG</picture>
+                <picture>https://triumf40.ru/images/sphera/opensky.jpg</picture>
+                <store>true</store>
+                <delivery>true</delivery>
+                <name>Теплица оцинкованная "Триумф Сфера" (теплица с раздвижной крышей) 8м (шаг 65см)</name>
+                <vendor>Триумф</vendor>
+                <vendorCode>triumf-sphera-8х65</vendorCode>
+                <model>triumf-sphera-8х65</model>
+                <description>Теплица из поликарбоната, каркас выполнен из стальной оцинкованной трубы с раздвижной
+                    крышей. Поликарбонат 4мм с защитой UV.
+                </description>
+                <sales_notes>Оплата при доставке товара</sales_notes>
+                <manufacturer_warranty>true</manufacturer_warranty>
+                <param name="Тип">теплица</param>
+                <param name="Покрытие">поликарбонат</param>
+                <param name="Тип каркаса">профильная труба</param>
+                <param name="Оцинкованный каркас">есть</param>
+                <param name="Сечение каркаса">20х20 мм</param>
+                <param name="Наличие форточки">есть</param>
+                <param name="Длина" unit="метр">8</param>
+                <param name="Шаг между дугами" unit="см">65</param>
+                <param name="Толщина стенки трубы" unit="мм">1,0</param>
+                <param name="Наличие дверей">есть</param>
+                <param name="Грунтозацепы">опционально</param>
+                <param name="Брус">опционально</param>
+                <param name="Внутренняя перегородка">опционально</param>
+                <param name="Боковая форточка">опционально</param>
+                <param name="Механизм открывания форточки">опционально</param>
+                <param name="Монтаж">опционально</param>
+            </offer>
+            <offer id="66x10x100" available="true">
+                <url>https://triumf40.ru/production/greenhouses/sphera?l=10&amp;s=100</url>
+                <price>40400</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>2</categoryId>
+                <picture>https://triumf40.ru/images/sphera/42520761.jpg</picture>
+                <picture>https://triumf40.ru/images/sphera/IMG_0301.JPG</picture>
+                <picture>https://triumf40.ru/images/sphera/IMG_0302.JPG</picture>
+                <picture>https://triumf40.ru/images/sphera/IMG_0305.JPG</picture>
+                <picture>https://triumf40.ru/images/sphera/opensky.jpg</picture>
+                <store>true</store>
+                <delivery>true</delivery>
+                <name>Теплица оцинкованная "Триумф Сфера" (теплица с раздвижной крышей) 10м (шаг 100см)</name>
+                <vendor>Триумф</vendor>
+                <vendorCode>triumf-sphera-10х100</vendorCode>
+                <model>triumf-sphera-10х100</model>
+                <description>Теплица из поликарбоната, каркас выполнен из стальной оцинкованной трубы с раздвижной
+                    крышей. Поликарбонат 4мм с защитой UV.
+                </description>
+                <sales_notes>Оплата при доставке товара</sales_notes>
+                <manufacturer_warranty>true</manufacturer_warranty>
+                <param name="Тип">теплица</param>
+                <param name="Покрытие">поликарбонат</param>
+                <param name="Тип каркаса">профильная труба</param>
+                <param name="Оцинкованный каркас">есть</param>
+                <param name="Сечение каркаса">20х20 мм</param>
+                <param name="Наличие форточки">есть</param>
+                <param name="Длина" unit="метр">10</param>
+                <param name="Шаг между дугами" unit="см">100</param>
+                <param name="Толщина стенки трубы" unit="мм">1,0</param>
+                <param name="Наличие дверей">есть</param>
+                <param name="Грунтозацепы">опционально</param>
+                <param name="Брус">опционально</param>
+                <param name="Внутренняя перегородка">опционально</param>
+                <param name="Боковая форточка">опционально</param>
+                <param name="Механизм открывания форточки">опционально</param>
+                <param name="Монтаж">опционально</param>
+            </offer>
+            <offer id="66x10x65" available="true">
+                <url>https://triumf40.ru/production/greenhouses/sphera?l=10&amp;s=65</url>
+                <price>44100</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>2</categoryId>
+                <picture>https://triumf40.ru/images/sphera/42520761.jpg</picture>
+                <picture>https://triumf40.ru/images/sphera/IMG_0301.JPG</picture>
+                <picture>https://triumf40.ru/images/sphera/IMG_0302.JPG</picture>
+                <picture>https://triumf40.ru/images/sphera/IMG_0305.JPG</picture>
+                <picture>https://triumf40.ru/images/sphera/opensky.jpg</picture>
+                <store>true</store>
+                <delivery>true</delivery>
+                <name>Теплица оцинкованная "Триумф Сфера" (теплица с раздвижной крышей) 10м (шаг 65см)</name>
+                <vendor>Триумф</vendor>
+                <vendorCode>triumf-sphera-10х65</vendorCode>
+                <model>triumf-sphera-10х65</model>
+                <description>Теплица из поликарбоната, каркас выполнен из стальной оцинкованной трубы с раздвижной
+                    крышей. Поликарбонат 4мм с защитой UV.
+                </description>
+                <sales_notes>Оплата при доставке товара</sales_notes>
+                <manufacturer_warranty>true</manufacturer_warranty>
+                <param name="Тип">теплица</param>
+                <param name="Покрытие">поликарбонат</param>
+                <param name="Тип каркаса">профильная труба</param>
+                <param name="Оцинкованный каркас">есть</param>
+                <param name="Сечение каркаса">20х20 мм</param>
+                <param name="Наличие форточки">есть</param>
+                <param name="Длина" unit="метр">10</param>
+                <param name="Шаг между дугами" unit="см">65</param>
+                <param name="Толщина стенки трубы" unit="мм">1,0</param>
+                <param name="Наличие дверей">есть</param>
+                <param name="Грунтозацепы">опционально</param>
+                <param name="Брус">опционально</param>
+                <param name="Внутренняя перегородка">опционально</param>
+                <param name="Боковая форточка">опционально</param>
+                <param name="Механизм открывания форточки">опционально</param>
+                <param name="Монтаж">опционально</param>
+            </offer>
+            <offer id="62x4x100" available="true">
+                <url>https://triumf40.ru/production/greenhouses/narod?l=4&amp;s=100</url>
+                <price>14500</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>2</categoryId>
+                <picture>https://triumf40.ru/images/narod/s1.jpeg</picture>
+                <picture>https://triumf40.ru/images/narod/s6.jpeg</picture>
+                <store>true</store>
+                <delivery>true</delivery>
+                <name>Теплица оцинкованная "Триумф Народная" 4м (шаг 100см)</name>
+                <vendor>Триумф</vendor>
+                <vendorCode>triumf-narod-4х100</vendorCode>
+                <model>triumf-narod-4х100</model>
+                <description>Теплица из поликарбоната, каркас выполнен из стальной оцинкованной трубы. Поликарбонат 4мм
+                    с защитой UV.
+                </description>
+                <sales_notes>Оплата при доставке товара</sales_notes>
+                <manufacturer_warranty>true</manufacturer_warranty>
+                <param name="Тип">теплица</param>
+                <param name="Покрытие">поликарбонат</param>
+                <param name="Тип каркаса">профильная труба</param>
+                <param name="Оцинкованный каркас">есть</param>
+                <param name="Сечение каркаса">20х20 мм</param>
+                <param name="Наличие форточки">есть</param>
+                <param name="Длина" unit="метр">4</param>
+                <param name="Шаг между дугами" unit="см">100</param>
+                <param name="Толщина стенки трубы" unit="мм">1,0</param>
+                <param name="Наличие дверей">есть</param>
+                <param name="Грунтозацепы">опционально</param>
+                <param name="Брус">опционально</param>
+                <param name="Внутренняя перегородка">опционально</param>
+                <param name="Боковая форточка">опционально</param>
+                <param name="Механизм открывания форточки">опционально</param>
+                <param name="Монтаж">опционально</param>
+            </offer>
+            <offer id="62x4x65" available="true">
+                <url>https://triumf40.ru/production/greenhouses/narod?l=4&amp;s=65</url>
+                <price>15700</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>2</categoryId>
+                <picture>https://triumf40.ru/images/narod/s1.jpeg</picture>
+                <picture>https://triumf40.ru/images/narod/s6.jpeg</picture>
+                <store>true</store>
+                <delivery>true</delivery>
+                <name>Теплица оцинкованная "Триумф Народная" 4м (шаг 65см)</name>
+                <vendor>Триумф</vendor>
+                <vendorCode>triumf-narod-4х65</vendorCode>
+                <model>triumf-narod-4х65</model>
+                <description>Теплица из поликарбоната, каркас выполнен из стальной оцинкованной трубы. Поликарбонат 4мм
+                    с защитой UV.
+                </description>
+                <sales_notes>Оплата при доставке товара</sales_notes>
+                <manufacturer_warranty>true</manufacturer_warranty>
+                <param name="Тип">теплица</param>
+                <param name="Покрытие">поликарбонат</param>
+                <param name="Тип каркаса">профильная труба</param>
+                <param name="Оцинкованный каркас">есть</param>
+                <param name="Сечение каркаса">20х20 мм</param>
+                <param name="Наличие форточки">есть</param>
+                <param name="Длина" unit="метр">4</param>
+                <param name="Шаг между дугами" unit="см">65</param>
+                <param name="Толщина стенки трубы" unit="мм">1,0</param>
+                <param name="Наличие дверей">есть</param>
+                <param name="Грунтозацепы">опционально</param>
+                <param name="Брус">опционально</param>
+                <param name="Внутренняя перегородка">опционально</param>
+                <param name="Боковая форточка">опционально</param>
+                <param name="Механизм открывания форточки">опционально</param>
+                <param name="Монтаж">опционально</param>
+            </offer>
+            <offer id="62x6x100" available="true">
+                <url>https://triumf40.ru/production/greenhouses/narod?l=6&amp;s=100</url>
+                <price>17800</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>2</categoryId>
+                <picture>https://triumf40.ru/images/narod/s1.jpeg</picture>
+                <picture>https://triumf40.ru/images/narod/s6.jpeg</picture>
+                <store>true</store>
+                <delivery>true</delivery>
+                <name>Теплица оцинкованная "Триумф Народная" 6м (шаг 100см)</name>
+                <vendor>Триумф</vendor>
+                <vendorCode>triumf-narod-6х100</vendorCode>
+                <model>triumf-narod-6х100</model>
+                <description>Теплица из поликарбоната, каркас выполнен из стальной оцинкованной трубы. Поликарбонат 4мм
+                    с защитой UV.
+                </description>
+                <sales_notes>Оплата при доставке товара</sales_notes>
+                <manufacturer_warranty>true</manufacturer_warranty>
+                <param name="Тип">теплица</param>
+                <param name="Покрытие">поликарбонат</param>
+                <param name="Тип каркаса">профильная труба</param>
+                <param name="Оцинкованный каркас">есть</param>
+                <param name="Сечение каркаса">20х20 мм</param>
+                <param name="Наличие форточки">есть</param>
+                <param name="Длина" unit="метр">6</param>
+                <param name="Шаг между дугами" unit="см">100</param>
+                <param name="Толщина стенки трубы" unit="мм">1,0</param>
+                <param name="Наличие дверей">есть</param>
+                <param name="Грунтозацепы">опционально</param>
+                <param name="Брус">опционально</param>
+                <param name="Внутренняя перегородка">опционально</param>
+                <param name="Боковая форточка">опционально</param>
+                <param name="Механизм открывания форточки">опционально</param>
+                <param name="Монтаж">опционально</param>
+            </offer>
+            <offer id="62x6x65" available="true">
+                <url>https://triumf40.ru/production/greenhouses/narod?l=6&amp;s=65</url>
+                <price>20100</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>2</categoryId>
+                <picture>https://triumf40.ru/images/narod/s1.jpeg</picture>
+                <picture>https://triumf40.ru/images/narod/s6.jpeg</picture>
+                <store>true</store>
+                <delivery>true</delivery>
+                <name>Теплица оцинкованная "Триумф Народная" 6м (шаг 65см)</name>
+                <vendor>Триумф</vendor>
+                <vendorCode>triumf-narod-6х65</vendorCode>
+                <model>triumf-narod-6х65</model>
+                <description>Теплица из поликарбоната, каркас выполнен из стальной оцинкованной трубы. Поликарбонат 4мм
+                    с защитой UV.
+                </description>
+                <sales_notes>Оплата при доставке товара</sales_notes>
+                <manufacturer_warranty>true</manufacturer_warranty>
+                <param name="Тип">теплица</param>
+                <param name="Покрытие">поликарбонат</param>
+                <param name="Тип каркаса">профильная труба</param>
+                <param name="Оцинкованный каркас">есть</param>
+                <param name="Сечение каркаса">20х20 мм</param>
+                <param name="Наличие форточки">есть</param>
+                <param name="Длина" unit="метр">6</param>
+                <param name="Шаг между дугами" unit="см">65</param>
+                <param name="Толщина стенки трубы" unit="мм">1,0</param>
+                <param name="Наличие дверей">есть</param>
+                <param name="Грунтозацепы">опционально</param>
+                <param name="Брус">опционально</param>
+                <param name="Внутренняя перегородка">опционально</param>
+                <param name="Боковая форточка">опционально</param>
+                <param name="Механизм открывания форточки">опционально</param>
+                <param name="Монтаж">опционально</param>
+            </offer>
+            <offer id="62x8x100" available="true">
+                <url>https://triumf40.ru/production/greenhouses/narod?l=8&amp;s=100</url>
+                <price>21500</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>2</categoryId>
+                <picture>https://triumf40.ru/images/narod/s1.jpeg</picture>
+                <picture>https://triumf40.ru/images/narod/s6.jpeg</picture>
+                <store>true</store>
+                <delivery>true</delivery>
+                <name>Теплица оцинкованная "Триумф Народная" 8м (шаг 100см)</name>
+                <vendor>Триумф</vendor>
+                <vendorCode>triumf-narod-8х100</vendorCode>
+                <model>triumf-narod-8х100</model>
+                <description>Теплица из поликарбоната, каркас выполнен из стальной оцинкованной трубы. Поликарбонат 4мм
+                    с защитой UV.
+                </description>
+                <sales_notes>Оплата при доставке товара</sales_notes>
+                <manufacturer_warranty>true</manufacturer_warranty>
+                <param name="Тип">теплица</param>
+                <param name="Покрытие">поликарбонат</param>
+                <param name="Тип каркаса">профильная труба</param>
+                <param name="Оцинкованный каркас">есть</param>
+                <param name="Сечение каркаса">20х20 мм</param>
+                <param name="Наличие форточки">есть</param>
+                <param name="Длина" unit="метр">8</param>
+                <param name="Шаг между дугами" unit="см">100</param>
+                <param name="Толщина стенки трубы" unit="мм">1,0</param>
+                <param name="Наличие дверей">есть</param>
+                <param name="Грунтозацепы">опционально</param>
+                <param name="Брус">опционально</param>
+                <param name="Внутренняя перегородка">опционально</param>
+                <param name="Боковая форточка">опционально</param>
+                <param name="Механизм открывания форточки">опционально</param>
+                <param name="Монтаж">опционально</param>
+            </offer>
+            <offer id="62x8x65" available="true">
+                <url>https://triumf40.ru/production/greenhouses/narod?l=8&amp;s=65</url>
+                <price>24500</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>2</categoryId>
+                <picture>https://triumf40.ru/images/narod/s1.jpeg</picture>
+                <picture>https://triumf40.ru/images/narod/s6.jpeg</picture>
+                <store>true</store>
+                <delivery>true</delivery>
+                <name>Теплица оцинкованная "Триумф Народная" 8м (шаг 65см)</name>
+                <vendor>Триумф</vendor>
+                <vendorCode>triumf-narod-8х65</vendorCode>
+                <model>triumf-narod-8х65</model>
+                <description>Теплица из поликарбоната, каркас выполнен из стальной оцинкованной трубы. Поликарбонат 4мм
+                    с защитой UV.
+                </description>
+                <sales_notes>Оплата при доставке товара</sales_notes>
+                <manufacturer_warranty>true</manufacturer_warranty>
+                <param name="Тип">теплица</param>
+                <param name="Покрытие">поликарбонат</param>
+                <param name="Тип каркаса">профильная труба</param>
+                <param name="Оцинкованный каркас">есть</param>
+                <param name="Сечение каркаса">20х20 мм</param>
+                <param name="Наличие форточки">есть</param>
+                <param name="Длина" unit="метр">8</param>
+                <param name="Шаг между дугами" unit="см">65</param>
+                <param name="Толщина стенки трубы" unit="мм">1,0</param>
+                <param name="Наличие дверей">есть</param>
+                <param name="Грунтозацепы">опционально</param>
+                <param name="Брус">опционально</param>
+                <param name="Внутренняя перегородка">опционально</param>
+                <param name="Боковая форточка">опционально</param>
+                <param name="Механизм открывания форточки">опционально</param>
+                <param name="Монтаж">опционально</param>
+            </offer>
+            <offer id="62x10x100" available="true">
+                <url>https://triumf40.ru/production/greenhouses/narod?l=10&amp;s=100</url>
+                <price>25300</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>2</categoryId>
+                <picture>https://triumf40.ru/images/narod/s1.jpeg</picture>
+                <picture>https://triumf40.ru/images/narod/s6.jpeg</picture>
+                <store>true</store>
+                <delivery>true</delivery>
+                <name>Теплица оцинкованная "Триумф Народная" 10м (шаг 100см)</name>
+                <vendor>Триумф</vendor>
+                <vendorCode>triumf-narod-10х100</vendorCode>
+                <model>triumf-narod-10х100</model>
+                <description>Теплица из поликарбоната, каркас выполнен из стальной оцинкованной трубы. Поликарбонат 4мм
+                    с защитой UV.
+                </description>
+                <sales_notes>Оплата при доставке товара</sales_notes>
+                <manufacturer_warranty>true</manufacturer_warranty>
+                <param name="Тип">теплица</param>
+                <param name="Покрытие">поликарбонат</param>
+                <param name="Тип каркаса">профильная труба</param>
+                <param name="Оцинкованный каркас">есть</param>
+                <param name="Сечение каркаса">20х20 мм</param>
+                <param name="Наличие форточки">есть</param>
+                <param name="Длина" unit="метр">10</param>
+                <param name="Шаг между дугами" unit="см">100</param>
+                <param name="Толщина стенки трубы" unit="мм">1,0</param>
+                <param name="Наличие дверей">есть</param>
+                <param name="Грунтозацепы">опционально</param>
+                <param name="Брус">опционально</param>
+                <param name="Внутренняя перегородка">опционально</param>
+                <param name="Боковая форточка">опционально</param>
+                <param name="Механизм открывания форточки">опционально</param>
+                <param name="Монтаж">опционально</param>
+            </offer>
+            <offer id="62x10x65" available="true">
+                <url>https://triumf40.ru/production/greenhouses/narod?l=10&amp;s=65</url>
+                <price>28950</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>2</categoryId>
+                <picture>https://triumf40.ru/images/narod/s1.jpeg</picture>
+                <picture>https://triumf40.ru/images/narod/s6.jpeg</picture>
+                <store>true</store>
+                <delivery>true</delivery>
+                <name>Теплица оцинкованная "Триумф Народная" 10м (шаг 65см)</name>
+                <vendor>Триумф</vendor>
+                <vendorCode>triumf-narod-10х65</vendorCode>
+                <model>triumf-narod-10х65</model>
+                <description>Теплица из поликарбоната, каркас выполнен из стальной оцинкованной трубы. Поликарбонат 4мм
+                    с защитой UV.
+                </description>
+                <sales_notes>Оплата при доставке товара</sales_notes>
+                <manufacturer_warranty>true</manufacturer_warranty>
+                <param name="Тип">теплица</param>
+                <param name="Покрытие">поликарбонат</param>
+                <param name="Тип каркаса">профильная труба</param>
+                <param name="Оцинкованный каркас">есть</param>
+                <param name="Сечение каркаса">20х20 мм</param>
+                <param name="Наличие форточки">есть</param>
+                <param name="Длина" unit="метр">10</param>
+                <param name="Шаг между дугами" unit="см">65</param>
+                <param name="Толщина стенки трубы" unit="мм">1,0</param>
+                <param name="Наличие дверей">есть</param>
+                <param name="Грунтозацепы">опционально</param>
+                <param name="Брус">опционально</param>
+                <param name="Внутренняя перегородка">опционально</param>
+                <param name="Боковая форточка">опционально</param>
+                <param name="Механизм открывания форточки">опционально</param>
+                <param name="Монтаж">опционально</param>
+            </offer>
+            <offer id="56x4x100" available="true">
+                <url>https://triumf40.ru/production/greenhouses/kaplya?l=4&amp;s=100</url>
+                <price>15500</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>2</categoryId>
+                <picture>https://triumf40.ru/images/kaplya/k5.jpg</picture>
+                <picture>https://triumf40.ru/images/kaplya/k7.jpeg</picture>
+                <picture>https://triumf40.ru/images/kaplya/k9.jpeg</picture>
+                <store>true</store>
+                <delivery>true</delivery>
+                <name>Теплица оцинкованная "Триумф Капля" 4м (шаг 100см)</name>
+                <vendor>Триумф</vendor>
+                <vendorCode>triumf-kaplya-4х100</vendorCode>
+                <model>triumf-kaplya-4х100</model>
+                <description>Теплица из поликарбоната, каркас выполнен из стальной оцинкованной трубы, конькового типа.
+                    Поликарбонат 4мм с защитой UV.
+                </description>
+                <sales_notes>Оплата при доставке товара</sales_notes>
+                <manufacturer_warranty>true</manufacturer_warranty>
+                <param name="Тип">теплица</param>
+                <param name="Покрытие">поликарбонат</param>
+                <param name="Тип каркаса">профильная труба</param>
+                <param name="Оцинкованный каркас">есть</param>
+                <param name="Сечение каркаса">20х20 мм</param>
+                <param name="Наличие форточки">есть</param>
+                <param name="Длина" unit="метр">4</param>
+                <param name="Шаг между дугами" unit="см">100</param>
+                <param name="Толщина стенки трубы" unit="мм">1,0</param>
+                <param name="Наличие дверей">есть</param>
+                <param name="Грунтозацепы">опционально</param>
+                <param name="Брус">опционально</param>
+                <param name="Внутренняя перегородка">опционально</param>
+                <param name="Боковая форточка">опционально</param>
+                <param name="Механизм открывания форточки">опционально</param>
+                <param name="Монтаж">опционально</param>
+            </offer>
+            <offer id="56x4x65" available="true">
+                <url>https://triumf40.ru/production/greenhouses/kaplya?l=4&amp;s=65</url>
+                <price>16700</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>2</categoryId>
+                <picture>https://triumf40.ru/images/kaplya/k5.jpg</picture>
+                <picture>https://triumf40.ru/images/kaplya/k7.jpeg</picture>
+                <picture>https://triumf40.ru/images/kaplya/k9.jpeg</picture>
+                <store>true</store>
+                <delivery>true</delivery>
+                <name>Теплица оцинкованная "Триумф Капля" 4м (шаг 65см)</name>
+                <vendor>Триумф</vendor>
+                <vendorCode>triumf-kaplya-4х65</vendorCode>
+                <model>triumf-kaplya-4х65</model>
+                <description>Теплица из поликарбоната, каркас выполнен из стальной оцинкованной трубы, конькового типа.
+                    Поликарбонат 4мм с защитой UV.
+                </description>
+                <sales_notes>Оплата при доставке товара</sales_notes>
+                <manufacturer_warranty>true</manufacturer_warranty>
+                <param name="Тип">теплица</param>
+                <param name="Покрытие">поликарбонат</param>
+                <param name="Тип каркаса">профильная труба</param>
+                <param name="Оцинкованный каркас">есть</param>
+                <param name="Сечение каркаса">20х20 мм</param>
+                <param name="Наличие форточки">есть</param>
+                <param name="Длина" unit="метр">4</param>
+                <param name="Шаг между дугами" unit="см">65</param>
+                <param name="Толщина стенки трубы" unit="мм">1,0</param>
+                <param name="Наличие дверей">есть</param>
+                <param name="Грунтозацепы">опционально</param>
+                <param name="Брус">опционально</param>
+                <param name="Внутренняя перегородка">опционально</param>
+                <param name="Боковая форточка">опционально</param>
+                <param name="Механизм открывания форточки">опционально</param>
+                <param name="Монтаж">опционально</param>
+            </offer>
+            <offer id="56x6x100" available="true">
+                <url>https://triumf40.ru/production/greenhouses/kaplya?l=6&amp;s=100</url>
+                <price>19700</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>2</categoryId>
+                <picture>https://triumf40.ru/images/kaplya/k5.jpg</picture>
+                <picture>https://triumf40.ru/images/kaplya/k7.jpeg</picture>
+                <picture>https://triumf40.ru/images/kaplya/k9.jpeg</picture>
+                <store>true</store>
+                <delivery>true</delivery>
+                <name>Теплица оцинкованная "Триумф Капля" 6м (шаг 100см)</name>
+                <vendor>Триумф</vendor>
+                <vendorCode>triumf-kaplya-6х100</vendorCode>
+                <model>triumf-kaplya-6х100</model>
+                <description>Теплица из поликарбоната, каркас выполнен из стальной оцинкованной трубы, конькового типа.
+                    Поликарбонат 4мм с защитой UV.
+                </description>
+                <sales_notes>Оплата при доставке товара</sales_notes>
+                <manufacturer_warranty>true</manufacturer_warranty>
+                <param name="Тип">теплица</param>
+                <param name="Покрытие">поликарбонат</param>
+                <param name="Тип каркаса">профильная труба</param>
+                <param name="Оцинкованный каркас">есть</param>
+                <param name="Сечение каркаса">20х20 мм</param>
+                <param name="Наличие форточки">есть</param>
+                <param name="Длина" unit="метр">6</param>
+                <param name="Шаг между дугами" unit="см">100</param>
+                <param name="Толщина стенки трубы" unit="мм">1,0</param>
+                <param name="Наличие дверей">есть</param>
+                <param name="Грунтозацепы">опционально</param>
+                <param name="Брус">опционально</param>
+                <param name="Внутренняя перегородка">опционально</param>
+                <param name="Боковая форточка">опционально</param>
+                <param name="Механизм открывания форточки">опционально</param>
+                <param name="Монтаж">опционально</param>
+            </offer>
+            <offer id="56x6x65" available="true">
+                <url>https://triumf40.ru/production/greenhouses/kaplya?l=6&amp;s=65</url>
+                <price>21700</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>2</categoryId>
+                <picture>https://triumf40.ru/images/kaplya/k5.jpg</picture>
+                <picture>https://triumf40.ru/images/kaplya/k7.jpeg</picture>
+                <picture>https://triumf40.ru/images/kaplya/k9.jpeg</picture>
+                <store>true</store>
+                <delivery>true</delivery>
+                <name>Теплица оцинкованная "Триумф Капля" 6м (шаг 65см)</name>
+                <vendor>Триумф</vendor>
+                <vendorCode>triumf-kaplya-6х65</vendorCode>
+                <model>triumf-kaplya-6х65</model>
+                <description>Теплица из поликарбоната, каркас выполнен из стальной оцинкованной трубы, конькового типа.
+                    Поликарбонат 4мм с защитой UV.
+                </description>
+                <sales_notes>Оплата при доставке товара</sales_notes>
+                <manufacturer_warranty>true</manufacturer_warranty>
+                <param name="Тип">теплица</param>
+                <param name="Покрытие">поликарбонат</param>
+                <param name="Тип каркаса">профильная труба</param>
+                <param name="Оцинкованный каркас">есть</param>
+                <param name="Сечение каркаса">20х20 мм</param>
+                <param name="Наличие форточки">есть</param>
+                <param name="Длина" unit="метр">6</param>
+                <param name="Шаг между дугами" unit="см">65</param>
+                <param name="Толщина стенки трубы" unit="мм">1,0</param>
+                <param name="Наличие дверей">есть</param>
+                <param name="Грунтозацепы">опционально</param>
+                <param name="Брус">опционально</param>
+                <param name="Внутренняя перегородка">опционально</param>
+                <param name="Боковая форточка">опционально</param>
+                <param name="Механизм открывания форточки">опционально</param>
+                <param name="Монтаж">опционально</param>
+            </offer>
+            <offer id="56x8x100" available="true">
+                <url>https://triumf40.ru/production/greenhouses/kaplya?l=8&amp;s=100</url>
+                <price>23900</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>2</categoryId>
+                <picture>https://triumf40.ru/images/kaplya/k5.jpg</picture>
+                <picture>https://triumf40.ru/images/kaplya/k7.jpeg</picture>
+                <picture>https://triumf40.ru/images/kaplya/k9.jpeg</picture>
+                <store>true</store>
+                <delivery>true</delivery>
+                <name>Теплица оцинкованная "Триумф Капля" 8м (шаг 100см)</name>
+                <vendor>Триумф</vendor>
+                <vendorCode>triumf-kaplya-8х100</vendorCode>
+                <model>triumf-kaplya-8х100</model>
+                <description>Теплица из поликарбоната, каркас выполнен из стальной оцинкованной трубы, конькового типа.
+                    Поликарбонат 4мм с защитой UV.
+                </description>
+                <sales_notes>Оплата при доставке товара</sales_notes>
+                <manufacturer_warranty>true</manufacturer_warranty>
+                <param name="Тип">теплица</param>
+                <param name="Покрытие">поликарбонат</param>
+                <param name="Тип каркаса">профильная труба</param>
+                <param name="Оцинкованный каркас">есть</param>
+                <param name="Сечение каркаса">20х20 мм</param>
+                <param name="Наличие форточки">есть</param>
+                <param name="Длина" unit="метр">8</param>
+                <param name="Шаг между дугами" unit="см">100</param>
+                <param name="Толщина стенки трубы" unit="мм">1,0</param>
+                <param name="Наличие дверей">есть</param>
+                <param name="Грунтозацепы">опционально</param>
+                <param name="Брус">опционально</param>
+                <param name="Внутренняя перегородка">опционально</param>
+                <param name="Боковая форточка">опционально</param>
+                <param name="Механизм открывания форточки">опционально</param>
+                <param name="Монтаж">опционально</param>
+            </offer>
+            <offer id="56x8x65" available="true">
+                <url>https://triumf40.ru/production/greenhouses/kaplya?l=8&amp;s=65</url>
+                <price>26700</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>2</categoryId>
+                <picture>https://triumf40.ru/images/kaplya/k5.jpg</picture>
+                <picture>https://triumf40.ru/images/kaplya/k7.jpeg</picture>
+                <picture>https://triumf40.ru/images/kaplya/k9.jpeg</picture>
+                <store>true</store>
+                <delivery>true</delivery>
+                <name>Теплица оцинкованная "Триумф Капля" 8м (шаг 65см)</name>
+                <vendor>Триумф</vendor>
+                <vendorCode>triumf-kaplya-8х65</vendorCode>
+                <model>triumf-kaplya-8х65</model>
+                <description>Теплица из поликарбоната, каркас выполнен из стальной оцинкованной трубы, конькового типа.
+                    Поликарбонат 4мм с защитой UV.
+                </description>
+                <sales_notes>Оплата при доставке товара</sales_notes>
+                <manufacturer_warranty>true</manufacturer_warranty>
+                <param name="Тип">теплица</param>
+                <param name="Покрытие">поликарбонат</param>
+                <param name="Тип каркаса">профильная труба</param>
+                <param name="Оцинкованный каркас">есть</param>
+                <param name="Сечение каркаса">20х20 мм</param>
+                <param name="Наличие форточки">есть</param>
+                <param name="Длина" unit="метр">8</param>
+                <param name="Шаг между дугами" unit="см">65</param>
+                <param name="Толщина стенки трубы" unit="мм">1,0</param>
+                <param name="Наличие дверей">есть</param>
+                <param name="Грунтозацепы">опционально</param>
+                <param name="Брус">опционально</param>
+                <param name="Внутренняя перегородка">опционально</param>
+                <param name="Боковая форточка">опционально</param>
+                <param name="Механизм открывания форточки">опционально</param>
+                <param name="Монтаж">опционально</param>
+            </offer>
+            <offer id="56x10x100" available="true">
+                <url>https://triumf40.ru/production/greenhouses/kaplya?l=10&amp;s=100</url>
+                <price>28100</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>2</categoryId>
+                <picture>https://triumf40.ru/images/kaplya/k5.jpg</picture>
+                <picture>https://triumf40.ru/images/kaplya/k7.jpeg</picture>
+                <picture>https://triumf40.ru/images/kaplya/k9.jpeg</picture>
+                <store>true</store>
+                <delivery>true</delivery>
+                <name>Теплица оцинкованная "Триумф Капля" 10м (шаг 100см)</name>
+                <vendor>Триумф</vendor>
+                <vendorCode>triumf-kaplya-10х100</vendorCode>
+                <model>triumf-kaplya-10х100</model>
+                <description>Теплица из поликарбоната, каркас выполнен из стальной оцинкованной трубы, конькового типа.
+                    Поликарбонат 4мм с защитой UV.
+                </description>
+                <sales_notes>Оплата при доставке товара</sales_notes>
+                <manufacturer_warranty>true</manufacturer_warranty>
+                <param name="Тип">теплица</param>
+                <param name="Покрытие">поликарбонат</param>
+                <param name="Тип каркаса">профильная труба</param>
+                <param name="Оцинкованный каркас">есть</param>
+                <param name="Сечение каркаса">20х20 мм</param>
+                <param name="Наличие форточки">есть</param>
+                <param name="Длина" unit="метр">10</param>
+                <param name="Шаг между дугами" unit="см">100</param>
+                <param name="Толщина стенки трубы" unit="мм">1,0</param>
+                <param name="Наличие дверей">есть</param>
+                <param name="Грунтозацепы">опционально</param>
+                <param name="Брус">опционально</param>
+                <param name="Внутренняя перегородка">опционально</param>
+                <param name="Боковая форточка">опционально</param>
+                <param name="Механизм открывания форточки">опционально</param>
+                <param name="Монтаж">опционально</param>
+            </offer>
+            <offer id="56x10x65" available="true">
+                <url>https://triumf40.ru/production/greenhouses/kaplya?l=10&amp;s=65</url>
+                <price>31700</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>2</categoryId>
+                <picture>https://triumf40.ru/images/kaplya/k5.jpg</picture>
+                <picture>https://triumf40.ru/images/kaplya/k7.jpeg</picture>
+                <picture>https://triumf40.ru/images/kaplya/k9.jpeg</picture>
+                <store>true</store>
+                <delivery>true</delivery>
+                <name>Теплица оцинкованная "Триумф Капля" 10м (шаг 65см)</name>
+                <vendor>Триумф</vendor>
+                <vendorCode>triumf-kaplya-10х65</vendorCode>
+                <model>triumf-kaplya-10х65</model>
+                <description>Теплица из поликарбоната, каркас выполнен из стальной оцинкованной трубы, конькового типа.
+                    Поликарбонат 4мм с защитой UV.
+                </description>
+                <sales_notes>Оплата при доставке товара</sales_notes>
+                <manufacturer_warranty>true</manufacturer_warranty>
+                <param name="Тип">теплица</param>
+                <param name="Покрытие">поликарбонат</param>
+                <param name="Тип каркаса">профильная труба</param>
+                <param name="Оцинкованный каркас">есть</param>
+                <param name="Сечение каркаса">20х20 мм</param>
+                <param name="Наличие форточки">есть</param>
+                <param name="Длина" unit="метр">10</param>
+                <param name="Шаг между дугами" unit="см">65</param>
+                <param name="Толщина стенки трубы" unit="мм">1,0</param>
+                <param name="Наличие дверей">есть</param>
+                <param name="Грунтозацепы">опционально</param>
+                <param name="Брус">опционально</param>
+                <param name="Внутренняя перегородка">опционально</param>
+                <param name="Боковая форточка">опционально</param>
+                <param name="Механизм открывания форточки">опционально</param>
+                <param name="Монтаж">опционально</param>
+            </offer>
+            <offer id="44x4x100" available="true">
+                <url>https://triumf40.ru/production/greenhouses/atlant?l=4&amp;s=100</url>
+                <price>17100</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>2</categoryId>
+                <picture>https://triumf40.ru/images/atlant/IMG_20141003_142859.jpg</picture>
+                <picture>https://triumf40.ru/images/atlant/IMG_20141003_142917.jpg</picture>
+                <picture>https://triumf40.ru/images/atlant/IMG_20141016_163934.jpg</picture>
+                <store>true</store>
+                <delivery>true</delivery>
+                <name>Теплица оцинкованная "Триумф Атлант" 4м (шаг 100см)</name>
+                <vendor>Триумф</vendor>
+                <vendorCode>triumf-atlant-4х100</vendorCode>
+                <model>triumf-atlant-4х100</model>
+                <description>Теплица из поликарбоната, каркас выполнен из стальной оцинкованной трубы. Поликарбонат 4мм
+                    с защитой UV.
+                </description>
+                <sales_notes>Оплата при доставке товара</sales_notes>
+                <manufacturer_warranty>true</manufacturer_warranty>
+                <param name="Тип">теплица</param>
+                <param name="Покрытие">поликарбонат</param>
+                <param name="Тип каркаса">профильная труба</param>
+                <param name="Оцинкованный каркас">есть</param>
+                <param name="Сечение каркаса">30х30 мм</param>
+                <param name="Наличие форточки">есть</param>
+                <param name="Длина" unit="метр">4</param>
+                <param name="Шаг между дугами" unit="см">100</param>
+                <param name="Толщина стенки трубы" unit="мм">1,2</param>
+                <param name="Наличие дверей">есть</param>
+                <param name="Грунтозацепы">опционально</param>
+                <param name="Брус">опционально</param>
+                <param name="Внутренняя перегородка">опционально</param>
+                <param name="Боковая форточка">опционально</param>
+                <param name="Механизм открывания форточки">опционально</param>
+                <param name="Монтаж">опционально</param>
+            </offer>
+            <offer id="44x4x65" available="true">
+                <url>https://triumf40.ru/production/greenhouses/atlant?l=4&amp;s=65</url>
+                <price>18800</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>2</categoryId>
+                <picture>https://triumf40.ru/images/atlant/IMG_20141003_142859.jpg</picture>
+                <picture>https://triumf40.ru/images/atlant/IMG_20141003_142917.jpg</picture>
+                <picture>https://triumf40.ru/images/atlant/IMG_20141016_163934.jpg</picture>
+                <store>true</store>
+                <delivery>true</delivery>
+                <name>Теплица оцинкованная "Триумф Атлант" 4м (шаг 65см)</name>
+                <vendor>Триумф</vendor>
+                <vendorCode>triumf-atlant-4х65</vendorCode>
+                <model>triumf-atlant-4х65</model>
+                <description>Теплица из поликарбоната, каркас выполнен из стальной оцинкованной трубы. Поликарбонат 4мм
+                    с защитой UV.
+                </description>
+                <sales_notes>Оплата при доставке товара</sales_notes>
+                <manufacturer_warranty>true</manufacturer_warranty>
+                <param name="Тип">теплица</param>
+                <param name="Покрытие">поликарбонат</param>
+                <param name="Тип каркаса">профильная труба</param>
+                <param name="Оцинкованный каркас">есть</param>
+                <param name="Сечение каркаса">30х30 мм</param>
+                <param name="Наличие форточки">есть</param>
+                <param name="Длина" unit="метр">4</param>
+                <param name="Шаг между дугами" unit="см">65</param>
+                <param name="Толщина стенки трубы" unit="мм">1,2</param>
+                <param name="Наличие дверей">есть</param>
+                <param name="Грунтозацепы">опционально</param>
+                <param name="Брус">опционально</param>
+                <param name="Внутренняя перегородка">опционально</param>
+                <param name="Боковая форточка">опционально</param>
+                <param name="Механизм открывания форточки">опционально</param>
+                <param name="Монтаж">опционально</param>
+            </offer>
+            <offer id="44x6x100" available="true">
+                <url>https://triumf40.ru/production/greenhouses/atlant?l=6&amp;s=100</url>
+                <price>21500</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>2</categoryId>
+                <picture>https://triumf40.ru/images/atlant/IMG_20141003_142859.jpg</picture>
+                <picture>https://triumf40.ru/images/atlant/IMG_20141003_142917.jpg</picture>
+                <picture>https://triumf40.ru/images/atlant/IMG_20141016_163934.jpg</picture>
+                <store>true</store>
+                <delivery>true</delivery>
+                <name>Теплица оцинкованная "Триумф Атлант" 6м (шаг 100см)</name>
+                <vendor>Триумф</vendor>
+                <vendorCode>triumf-atlant-6х100</vendorCode>
+                <model>triumf-atlant-6х100</model>
+                <description>Теплица из поликарбоната, каркас выполнен из стальной оцинкованной трубы. Поликарбонат 4мм
+                    с защитой UV.
+                </description>
+                <sales_notes>Оплата при доставке товара</sales_notes>
+                <manufacturer_warranty>true</manufacturer_warranty>
+                <param name="Тип">теплица</param>
+                <param name="Покрытие">поликарбонат</param>
+                <param name="Тип каркаса">профильная труба</param>
+                <param name="Оцинкованный каркас">есть</param>
+                <param name="Сечение каркаса">30х30 мм</param>
+                <param name="Наличие форточки">есть</param>
+                <param name="Длина" unit="метр">6</param>
+                <param name="Шаг между дугами" unit="см">100</param>
+                <param name="Толщина стенки трубы" unit="мм">1,2</param>
+                <param name="Наличие дверей">есть</param>
+                <param name="Грунтозацепы">опционально</param>
+                <param name="Брус">опционально</param>
+                <param name="Внутренняя перегородка">опционально</param>
+                <param name="Боковая форточка">опционально</param>
+                <param name="Механизм открывания форточки">опционально</param>
+                <param name="Монтаж">опционально</param>
+            </offer>
+            <offer id="44x6x65" available="true">
+                <url>https://triumf40.ru/production/greenhouses/atlant?l=6&amp;s=65</url>
+                <price>23900</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>2</categoryId>
+                <picture>https://triumf40.ru/images/atlant/IMG_20141003_142859.jpg</picture>
+                <picture>https://triumf40.ru/images/atlant/IMG_20141003_142917.jpg</picture>
+                <picture>https://triumf40.ru/images/atlant/IMG_20141016_163934.jpg</picture>
+                <store>true</store>
+                <delivery>true</delivery>
+                <name>Теплица оцинкованная "Триумф Атлант" 6м (шаг 65см)</name>
+                <vendor>Триумф</vendor>
+                <vendorCode>triumf-atlant-6х65</vendorCode>
+                <model>triumf-atlant-6х65</model>
+                <description>Теплица из поликарбоната, каркас выполнен из стальной оцинкованной трубы. Поликарбонат 4мм
+                    с защитой UV.
+                </description>
+                <sales_notes>Оплата при доставке товара</sales_notes>
+                <manufacturer_warranty>true</manufacturer_warranty>
+                <param name="Тип">теплица</param>
+                <param name="Покрытие">поликарбонат</param>
+                <param name="Тип каркаса">профильная труба</param>
+                <param name="Оцинкованный каркас">есть</param>
+                <param name="Сечение каркаса">30х30 мм</param>
+                <param name="Наличие форточки">есть</param>
+                <param name="Длина" unit="метр">6</param>
+                <param name="Шаг между дугами" unit="см">65</param>
+                <param name="Толщина стенки трубы" unit="мм">1,2</param>
+                <param name="Наличие дверей">есть</param>
+                <param name="Грунтозацепы">опционально</param>
+                <param name="Брус">опционально</param>
+                <param name="Внутренняя перегородка">опционально</param>
+                <param name="Боковая форточка">опционально</param>
+                <param name="Механизм открывания форточки">опционально</param>
+                <param name="Монтаж">опционально</param>
+            </offer>
+            <offer id="44x8x100" available="true">
+                <url>https://triumf40.ru/production/greenhouses/atlant?l=8&amp;s=100</url>
+                <price>25900</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>2</categoryId>
+                <picture>https://triumf40.ru/images/atlant/IMG_20141003_142859.jpg</picture>
+                <picture>https://triumf40.ru/images/atlant/IMG_20141003_142917.jpg</picture>
+                <picture>https://triumf40.ru/images/atlant/IMG_20141016_163934.jpg</picture>
+                <store>true</store>
+                <delivery>true</delivery>
+                <name>Теплица оцинкованная "Триумф Атлант" 8м (шаг 100см)</name>
+                <vendor>Триумф</vendor>
+                <vendorCode>triumf-atlant-8х100</vendorCode>
+                <model>triumf-atlant-8х100</model>
+                <description>Теплица из поликарбоната, каркас выполнен из стальной оцинкованной трубы. Поликарбонат 4мм
+                    с защитой UV.
+                </description>
+                <sales_notes>Оплата при доставке товара</sales_notes>
+                <manufacturer_warranty>true</manufacturer_warranty>
+                <param name="Тип">теплица</param>
+                <param name="Покрытие">поликарбонат</param>
+                <param name="Тип каркаса">профильная труба</param>
+                <param name="Оцинкованный каркас">есть</param>
+                <param name="Сечение каркаса">30х30 мм</param>
+                <param name="Наличие форточки">есть</param>
+                <param name="Длина" unit="метр">8</param>
+                <param name="Шаг между дугами" unit="см">100</param>
+                <param name="Толщина стенки трубы" unit="мм">1,2</param>
+                <param name="Наличие дверей">есть</param>
+                <param name="Грунтозацепы">опционально</param>
+                <param name="Брус">опционально</param>
+                <param name="Внутренняя перегородка">опционально</param>
+                <param name="Боковая форточка">опционально</param>
+                <param name="Механизм открывания форточки">опционально</param>
+                <param name="Монтаж">опционально</param>
+            </offer>
+            <offer id="44x8x65" available="true">
+                <url>https://triumf40.ru/production/greenhouses/atlant?l=8&amp;s=65</url>
+                <price>28900</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>2</categoryId>
+                <picture>https://triumf40.ru/images/atlant/IMG_20141003_142859.jpg</picture>
+                <picture>https://triumf40.ru/images/atlant/IMG_20141003_142917.jpg</picture>
+                <picture>https://triumf40.ru/images/atlant/IMG_20141016_163934.jpg</picture>
+                <store>true</store>
+                <delivery>true</delivery>
+                <name>Теплица оцинкованная "Триумф Атлант" 8м (шаг 65см)</name>
+                <vendor>Триумф</vendor>
+                <vendorCode>triumf-atlant-8х65</vendorCode>
+                <model>triumf-atlant-8х65</model>
+                <description>Теплица из поликарбоната, каркас выполнен из стальной оцинкованной трубы. Поликарбонат 4мм
+                    с защитой UV.
+                </description>
+                <sales_notes>Оплата при доставке товара</sales_notes>
+                <manufacturer_warranty>true</manufacturer_warranty>
+                <param name="Тип">теплица</param>
+                <param name="Покрытие">поликарбонат</param>
+                <param name="Тип каркаса">профильная труба</param>
+                <param name="Оцинкованный каркас">есть</param>
+                <param name="Сечение каркаса">30х30 мм</param>
+                <param name="Наличие форточки">есть</param>
+                <param name="Длина" unit="метр">8</param>
+                <param name="Шаг между дугами" unit="см">65</param>
+                <param name="Толщина стенки трубы" unit="мм">1,2</param>
+                <param name="Наличие дверей">есть</param>
+                <param name="Грунтозацепы">опционально</param>
+                <param name="Брус">опционально</param>
+                <param name="Внутренняя перегородка">опционально</param>
+                <param name="Боковая форточка">опционально</param>
+                <param name="Механизм открывания форточки">опционально</param>
+                <param name="Монтаж">опционально</param>
+            </offer>
+            <offer id="44x10x100" available="true">
+                <url>https://triumf40.ru/production/greenhouses/atlant?l=10&amp;s=100</url>
+                <price>30800</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>2</categoryId>
+                <picture>https://triumf40.ru/images/atlant/IMG_20141003_142859.jpg</picture>
+                <picture>https://triumf40.ru/images/atlant/IMG_20141003_142917.jpg</picture>
+                <picture>https://triumf40.ru/images/atlant/IMG_20141016_163934.jpg</picture>
+                <store>true</store>
+                <delivery>true</delivery>
+                <name>Теплица оцинкованная "Триумф Атлант" 10м (шаг 100см)</name>
+                <vendor>Триумф</vendor>
+                <vendorCode>triumf-atlant-10х100</vendorCode>
+                <model>triumf-atlant-10х100</model>
+                <description>Теплица из поликарбоната, каркас выполнен из стальной оцинкованной трубы. Поликарбонат 4мм
+                    с защитой UV.
+                </description>
+                <sales_notes>Оплата при доставке товара</sales_notes>
+                <manufacturer_warranty>true</manufacturer_warranty>
+                <param name="Тип">теплица</param>
+                <param name="Покрытие">поликарбонат</param>
+                <param name="Тип каркаса">профильная труба</param>
+                <param name="Оцинкованный каркас">есть</param>
+                <param name="Сечение каркаса">30х30 мм</param>
+                <param name="Наличие форточки">есть</param>
+                <param name="Длина" unit="метр">10</param>
+                <param name="Шаг между дугами" unit="см">100</param>
+                <param name="Толщина стенки трубы" unit="мм">1,2</param>
+                <param name="Наличие дверей">есть</param>
+                <param name="Грунтозацепы">опционально</param>
+                <param name="Брус">опционально</param>
+                <param name="Внутренняя перегородка">опционально</param>
+                <param name="Боковая форточка">опционально</param>
+                <param name="Механизм открывания форточки">опционально</param>
+                <param name="Монтаж">опционально</param>
+            </offer>
+            <offer id="44x10x65" available="true">
+                <url>https://triumf40.ru/production/greenhouses/atlant?l=10&amp;s=65</url>
+                <price>34800</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>2</categoryId>
+                <picture>https://triumf40.ru/images/atlant/IMG_20141003_142859.jpg</picture>
+                <picture>https://triumf40.ru/images/atlant/IMG_20141003_142917.jpg</picture>
+                <picture>https://triumf40.ru/images/atlant/IMG_20141016_163934.jpg</picture>
+                <store>true</store>
+                <delivery>true</delivery>
+                <name>Теплица оцинкованная "Триумф Атлант" 10м (шаг 65см)</name>
+                <vendor>Триумф</vendor>
+                <vendorCode>triumf-atlant-10х65</vendorCode>
+                <model>triumf-atlant-10х65</model>
+                <description>Теплица из поликарбоната, каркас выполнен из стальной оцинкованной трубы. Поликарбонат 4мм
+                    с защитой UV.
+                </description>
+                <sales_notes>Оплата при доставке товара</sales_notes>
+                <manufacturer_warranty>true</manufacturer_warranty>
+                <param name="Тип">теплица</param>
+                <param name="Покрытие">поликарбонат</param>
+                <param name="Тип каркаса">профильная труба</param>
+                <param name="Оцинкованный каркас">есть</param>
+                <param name="Сечение каркаса">30х30 мм</param>
+                <param name="Наличие форточки">есть</param>
+                <param name="Длина" unit="метр">10</param>
+                <param name="Шаг между дугами" unit="см">65</param>
+                <param name="Толщина стенки трубы" unit="мм">1,2</param>
+                <param name="Наличие дверей">есть</param>
+                <param name="Грунтозацепы">опционально</param>
+                <param name="Брус">опционально</param>
+                <param name="Внутренняя перегородка">опционально</param>
+                <param name="Боковая форточка">опционально</param>
+                <param name="Механизм открывания форточки">опционально</param>
+                <param name="Монтаж">опционально</param>
+            </offer>
+            <offer id="43x4x100" available="true">
+                <url>https://triumf40.ru/production/greenhouses/mini?l=4&amp;s=100</url>
+                <price>12400</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>2</categoryId>
+                <picture>https://triumf40.ru/images/mini/mini1.jpg</picture>
+                <picture>https://triumf40.ru/images/mini/mini2.jpg</picture>
+                <picture>https://triumf40.ru/images/mini/mini3.jpg</picture>
+                <picture>https://triumf40.ru/images/mini/mini4.jpg</picture>
+                <store>true</store>
+                <delivery>true</delivery>
+                <name>Теплица оцинкованная "Триумф Мини" 4м (шаг 100см)</name>
+                <vendor>Триумф</vendor>
+                <vendorCode>triumf-mini-4х100</vendorCode>
+                <model>triumf-mini-4х100</model>
+                <description>Теплица из поликарбоната, каркас выполнен из стальной оцинкованной трубы. Поликарбонат 4мм
+                    с защитой UV.
+                </description>
+                <sales_notes>Оплата при доставке товара</sales_notes>
+                <manufacturer_warranty>true</manufacturer_warranty>
+                <param name="Тип">теплица</param>
+                <param name="Покрытие">поликарбонат</param>
+                <param name="Тип каркаса">профильная труба</param>
+                <param name="Оцинкованный каркас">есть</param>
+                <param name="Сечение каркаса">20х20 мм</param>
+                <param name="Наличие форточки">есть</param>
+                <param name="Длина" unit="метр">4</param>
+                <param name="Шаг между дугами" unit="см">100</param>
+                <param name="Толщина стенки трубы" unit="мм">1,0</param>
+                <param name="Наличие дверей">есть</param>
+                <param name="Грунтозацепы">опционально</param>
+                <param name="Брус">опционально</param>
+                <param name="Внутренняя перегородка">опционально</param>
+                <param name="Боковая форточка">опционально</param>
+                <param name="Механизм открывания форточки">опционально</param>
+                <param name="Монтаж">опционально</param>
+            </offer>
+            <offer id="43x4x65" available="true">
+                <url>https://triumf40.ru/production/greenhouses/mini?l=4&amp;s=65</url>
+                <price>13400</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>2</categoryId>
+                <picture>https://triumf40.ru/images/mini/mini1.jpg</picture>
+                <picture>https://triumf40.ru/images/mini/mini2.jpg</picture>
+                <picture>https://triumf40.ru/images/mini/mini3.jpg</picture>
+                <picture>https://triumf40.ru/images/mini/mini4.jpg</picture>
+                <store>true</store>
+                <delivery>true</delivery>
+                <name>Теплица оцинкованная "Триумф Мини" 4м (шаг 65см)</name>
+                <vendor>Триумф</vendor>
+                <vendorCode>triumf-mini-4х65</vendorCode>
+                <model>triumf-mini-4х65</model>
+                <description>Теплица из поликарбоната, каркас выполнен из стальной оцинкованной трубы. Поликарбонат 4мм
+                    с защитой UV.
+                </description>
+                <sales_notes>Оплата при доставке товара</sales_notes>
+                <manufacturer_warranty>true</manufacturer_warranty>
+                <param name="Тип">теплица</param>
+                <param name="Покрытие">поликарбонат</param>
+                <param name="Тип каркаса">профильная труба</param>
+                <param name="Оцинкованный каркас">есть</param>
+                <param name="Сечение каркаса">20х20 мм</param>
+                <param name="Наличие форточки">есть</param>
+                <param name="Длина" unit="метр">4</param>
+                <param name="Шаг между дугами" unit="см">65</param>
+                <param name="Толщина стенки трубы" unit="мм">1,0</param>
+                <param name="Наличие дверей">есть</param>
+                <param name="Грунтозацепы">опционально</param>
+                <param name="Брус">опционально</param>
+                <param name="Внутренняя перегородка">опционально</param>
+                <param name="Боковая форточка">опционально</param>
+                <param name="Механизм открывания форточки">опционально</param>
+                <param name="Монтаж">опционально</param>
+            </offer>
+            <offer id="43x6x100" available="true">
+                <url>https://triumf40.ru/production/greenhouses/mini?l=6&amp;s=100</url>
+                <price>15900</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>2</categoryId>
+                <picture>https://triumf40.ru/images/mini/mini1.jpg</picture>
+                <picture>https://triumf40.ru/images/mini/mini2.jpg</picture>
+                <picture>https://triumf40.ru/images/mini/mini3.jpg</picture>
+                <picture>https://triumf40.ru/images/mini/mini4.jpg</picture>
+                <store>true</store>
+                <delivery>true</delivery>
+                <name>Теплица оцинкованная "Триумф Мини" 6м (шаг 100см)</name>
+                <vendor>Триумф</vendor>
+                <vendorCode>triumf-mini-6х100</vendorCode>
+                <model>triumf-mini-6х100</model>
+                <description>Теплица из поликарбоната, каркас выполнен из стальной оцинкованной трубы. Поликарбонат 4мм
+                    с защитой UV.
+                </description>
+                <sales_notes>Оплата при доставке товара</sales_notes>
+                <manufacturer_warranty>true</manufacturer_warranty>
+                <param name="Тип">теплица</param>
+                <param name="Покрытие">поликарбонат</param>
+                <param name="Тип каркаса">профильная труба</param>
+                <param name="Оцинкованный каркас">есть</param>
+                <param name="Сечение каркаса">20х20 мм</param>
+                <param name="Наличие форточки">есть</param>
+                <param name="Длина" unit="метр">6</param>
+                <param name="Шаг между дугами" unit="см">100</param>
+                <param name="Толщина стенки трубы" unit="мм">1,0</param>
+                <param name="Наличие дверей">есть</param>
+                <param name="Грунтозацепы">опционально</param>
+                <param name="Брус">опционально</param>
+                <param name="Внутренняя перегородка">опционально</param>
+                <param name="Боковая форточка">опционально</param>
+                <param name="Механизм открывания форточки">опционально</param>
+                <param name="Монтаж">опционально</param>
+            </offer>
+            <offer id="43x6x65" available="true">
+                <url>https://triumf40.ru/production/greenhouses/mini?l=6&amp;s=65</url>
+                <price>17400</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>2</categoryId>
+                <picture>https://triumf40.ru/images/mini/mini1.jpg</picture>
+                <picture>https://triumf40.ru/images/mini/mini2.jpg</picture>
+                <picture>https://triumf40.ru/images/mini/mini3.jpg</picture>
+                <picture>https://triumf40.ru/images/mini/mini4.jpg</picture>
+                <store>true</store>
+                <delivery>true</delivery>
+                <name>Теплица оцинкованная "Триумф Мини" 6м (шаг 65см)</name>
+                <vendor>Триумф</vendor>
+                <vendorCode>triumf-mini-6х65</vendorCode>
+                <model>triumf-mini-6х65</model>
+                <description>Теплица из поликарбоната, каркас выполнен из стальной оцинкованной трубы. Поликарбонат 4мм
+                    с защитой UV.
+                </description>
+                <sales_notes>Оплата при доставке товара</sales_notes>
+                <manufacturer_warranty>true</manufacturer_warranty>
+                <param name="Тип">теплица</param>
+                <param name="Покрытие">поликарбонат</param>
+                <param name="Тип каркаса">профильная труба</param>
+                <param name="Оцинкованный каркас">есть</param>
+                <param name="Сечение каркаса">20х20 мм</param>
+                <param name="Наличие форточки">есть</param>
+                <param name="Длина" unit="метр">6</param>
+                <param name="Шаг между дугами" unit="см">65</param>
+                <param name="Толщина стенки трубы" unit="мм">1,0</param>
+                <param name="Наличие дверей">есть</param>
+                <param name="Грунтозацепы">опционально</param>
+                <param name="Брус">опционально</param>
+                <param name="Внутренняя перегородка">опционально</param>
+                <param name="Боковая форточка">опционально</param>
+                <param name="Механизм открывания форточки">опционально</param>
+                <param name="Монтаж">опционально</param>
+            </offer>
+            <offer id="43x8x100" available="true">
+                <url>https://triumf40.ru/production/greenhouses/mini?l=8&amp;s=100</url>
+                <price>19000</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>2</categoryId>
+                <picture>https://triumf40.ru/images/mini/mini1.jpg</picture>
+                <picture>https://triumf40.ru/images/mini/mini2.jpg</picture>
+                <picture>https://triumf40.ru/images/mini/mini3.jpg</picture>
+                <picture>https://triumf40.ru/images/mini/mini4.jpg</picture>
+                <store>true</store>
+                <delivery>true</delivery>
+                <name>Теплица оцинкованная "Триумф Мини" 8м (шаг 100см)</name>
+                <vendor>Триумф</vendor>
+                <vendorCode>triumf-mini-8х100</vendorCode>
+                <model>triumf-mini-8х100</model>
+                <description>Теплица из поликарбоната, каркас выполнен из стальной оцинкованной трубы. Поликарбонат 4мм
+                    с защитой UV.
+                </description>
+                <sales_notes>Оплата при доставке товара</sales_notes>
+                <manufacturer_warranty>true</manufacturer_warranty>
+                <param name="Тип">теплица</param>
+                <param name="Покрытие">поликарбонат</param>
+                <param name="Тип каркаса">профильная труба</param>
+                <param name="Оцинкованный каркас">есть</param>
+                <param name="Сечение каркаса">20х20 мм</param>
+                <param name="Наличие форточки">есть</param>
+                <param name="Длина" unit="метр">8</param>
+                <param name="Шаг между дугами" unit="см">100</param>
+                <param name="Толщина стенки трубы" unit="мм">1,0</param>
+                <param name="Наличие дверей">есть</param>
+                <param name="Грунтозацепы">опционально</param>
+                <param name="Брус">опционально</param>
+                <param name="Внутренняя перегородка">опционально</param>
+                <param name="Боковая форточка">опционально</param>
+                <param name="Механизм открывания форточки">опционально</param>
+                <param name="Монтаж">опционально</param>
+            </offer>
+            <offer id="43x8x65" available="true">
+                <url>https://triumf40.ru/production/greenhouses/mini?l=8&amp;s=65</url>
+                <price>21000</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>2</categoryId>
+                <picture>https://triumf40.ru/images/mini/mini1.jpg</picture>
+                <picture>https://triumf40.ru/images/mini/mini2.jpg</picture>
+                <picture>https://triumf40.ru/images/mini/mini3.jpg</picture>
+                <picture>https://triumf40.ru/images/mini/mini4.jpg</picture>
+                <store>true</store>
+                <delivery>true</delivery>
+                <name>Теплица оцинкованная "Триумф Мини" 8м (шаг 65см)</name>
+                <vendor>Триумф</vendor>
+                <vendorCode>triumf-mini-8х65</vendorCode>
+                <model>triumf-mini-8х65</model>
+                <description>Теплица из поликарбоната, каркас выполнен из стальной оцинкованной трубы. Поликарбонат 4мм
+                    с защитой UV.
+                </description>
+                <sales_notes>Оплата при доставке товара</sales_notes>
+                <manufacturer_warranty>true</manufacturer_warranty>
+                <param name="Тип">теплица</param>
+                <param name="Покрытие">поликарбонат</param>
+                <param name="Тип каркаса">профильная труба</param>
+                <param name="Оцинкованный каркас">есть</param>
+                <param name="Сечение каркаса">20х20 мм</param>
+                <param name="Наличие форточки">есть</param>
+                <param name="Длина" unit="метр">8</param>
+                <param name="Шаг между дугами" unit="см">65</param>
+                <param name="Толщина стенки трубы" unit="мм">1,0</param>
+                <param name="Наличие дверей">есть</param>
+                <param name="Грунтозацепы">опционально</param>
+                <param name="Брус">опционально</param>
+                <param name="Внутренняя перегородка">опционально</param>
+                <param name="Боковая форточка">опционально</param>
+                <param name="Механизм открывания форточки">опционально</param>
+                <param name="Монтаж">опционально</param>
+            </offer>
+            <offer id="43x10x100" available="true">
+                <url>https://triumf40.ru/production/greenhouses/mini?l=10&amp;s=100</url>
+                <price>22200</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>2</categoryId>
+                <picture>https://triumf40.ru/images/mini/mini1.jpg</picture>
+                <picture>https://triumf40.ru/images/mini/mini2.jpg</picture>
+                <picture>https://triumf40.ru/images/mini/mini3.jpg</picture>
+                <picture>https://triumf40.ru/images/mini/mini4.jpg</picture>
+                <store>true</store>
+                <delivery>true</delivery>
+                <name>Теплица оцинкованная "Триумф Мини" 10м (шаг 100см)</name>
+                <vendor>Триумф</vendor>
+                <vendorCode>triumf-mini-10х100</vendorCode>
+                <model>triumf-mini-10х100</model>
+                <description>Теплица из поликарбоната, каркас выполнен из стальной оцинкованной трубы. Поликарбонат 4мм
+                    с защитой UV.
+                </description>
+                <sales_notes>Оплата при доставке товара</sales_notes>
+                <manufacturer_warranty>true</manufacturer_warranty>
+                <param name="Тип">теплица</param>
+                <param name="Покрытие">поликарбонат</param>
+                <param name="Тип каркаса">профильная труба</param>
+                <param name="Оцинкованный каркас">есть</param>
+                <param name="Сечение каркаса">20х20 мм</param>
+                <param name="Наличие форточки">есть</param>
+                <param name="Длина" unit="метр">10</param>
+                <param name="Шаг между дугами" unit="см">100</param>
+                <param name="Толщина стенки трубы" unit="мм">1,0</param>
+                <param name="Наличие дверей">есть</param>
+                <param name="Грунтозацепы">опционально</param>
+                <param name="Брус">опционально</param>
+                <param name="Внутренняя перегородка">опционально</param>
+                <param name="Боковая форточка">опционально</param>
+                <param name="Механизм открывания форточки">опционально</param>
+                <param name="Монтаж">опционально</param>
+            </offer>
+            <offer id="43x10x65" available="true">
+                <url>https://triumf40.ru/production/greenhouses/mini?l=10&amp;s=65</url>
+                <price>24700</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>2</categoryId>
+                <picture>https://triumf40.ru/images/mini/mini1.jpg</picture>
+                <picture>https://triumf40.ru/images/mini/mini2.jpg</picture>
+                <picture>https://triumf40.ru/images/mini/mini3.jpg</picture>
+                <picture>https://triumf40.ru/images/mini/mini4.jpg</picture>
+                <store>true</store>
+                <delivery>true</delivery>
+                <name>Теплица оцинкованная "Триумф Мини" 10м (шаг 65см)</name>
+                <vendor>Триумф</vendor>
+                <vendorCode>triumf-mini-10х65</vendorCode>
+                <model>triumf-mini-10х65</model>
+                <description>Теплица из поликарбоната, каркас выполнен из стальной оцинкованной трубы. Поликарбонат 4мм
+                    с защитой UV.
+                </description>
+                <sales_notes>Оплата при доставке товара</sales_notes>
+                <manufacturer_warranty>true</manufacturer_warranty>
+                <param name="Тип">теплица</param>
+                <param name="Покрытие">поликарбонат</param>
+                <param name="Тип каркаса">профильная труба</param>
+                <param name="Оцинкованный каркас">есть</param>
+                <param name="Сечение каркаса">20х20 мм</param>
+                <param name="Наличие форточки">есть</param>
+                <param name="Длина" unit="метр">10</param>
+                <param name="Шаг между дугами" unit="см">65</param>
+                <param name="Толщина стенки трубы" unit="мм">1,0</param>
+                <param name="Наличие дверей">есть</param>
+                <param name="Грунтозацепы">опционально</param>
+                <param name="Брус">опционально</param>
+                <param name="Внутренняя перегородка">опционально</param>
+                <param name="Боковая форточка">опционально</param>
+                <param name="Механизм открывания форточки">опционально</param>
+                <param name="Монтаж">опционально</param>
+            </offer>
+            <offer id="21x2x100" available="true">
+                <url>https://triumf40.ru/production/greenhouses/kremlevskaya?l=2&amp;s=100</url>
+                <price>12500</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>2</categoryId>
+                <picture>https://triumf40.ru/images/kremlevskaya/kreml1.jpg</picture>
+                <picture>https://triumf40.ru/images/kremlevskaya/kreml3.jpg</picture>
+                <picture>https://triumf40.ru/images/kremlevskaya/tkr_1.jpg</picture>
+                <store>true</store>
+                <delivery>true</delivery>
+                <name>Теплица оцинкованная "Триумф Кремлевская"</name>
+                <vendor>Триумф</vendor>
+                <vendorCode>triumf-kremlevskaya</vendorCode>
+                <model>triumf-kremlevskaya</model>
+                <description>Теплица из поликарбоната, каркас выполнен из сдвоенной стальной оцинкованной трубы.
+                    Поликарбонат 4мм с защитой UV.
+                </description>
+                <sales_notes>Оплата при доставке товара</sales_notes>
+                <manufacturer_warranty>true</manufacturer_warranty>
+                <param name="Тип">теплица</param>
+                <param name="Покрытие">поликарбонат</param>
+                <param name="Тип каркаса">профильная труба</param>
+                <param name="Оцинкованный каркас">есть</param>
+                <param name="Сечение каркаса">20х20 мм</param>
+                <param name="Наличие форточки">есть</param>
+                <param name="Длина" unit="метр">2</param>
+                <param name="Шаг между дугами" unit="см">100</param>
+                <param name="Толщина стенки трубы" unit="мм">1,0</param>
+                <param name="Наличие дверей">есть</param>
+                <param name="Грунтозацепы">опционально</param>
+                <param name="Брус">опционально</param>
+                <param name="Внутренняя перегородка">опционально</param>
+                <param name="Боковая форточка">опционально</param>
+                <param name="Механизм открывания форточки">опционально</param>
+                <param name="Монтаж">опционально</param>
+            </offer>
+            <offer id="21x4x100" available="true">
+                <url>https://triumf40.ru/production/greenhouses/kremlevskaya?l=4&amp;s=100</url>
+                <price>18600</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>2</categoryId>
+                <picture>https://triumf40.ru/images/kremlevskaya/kreml1.jpg</picture>
+                <picture>https://triumf40.ru/images/kremlevskaya/kreml3.jpg</picture>
+                <picture>https://triumf40.ru/images/kremlevskaya/tkr_1.jpg</picture>
+                <store>true</store>
+                <delivery>true</delivery>
+                <name>Теплица оцинкованная "Триумф Кремлевская" 4м (шаг 100см)</name>
+                <vendor>Триумф</vendor>
+                <vendorCode>triumf-kremlevskaya-4х100</vendorCode>
+                <model>triumf-kremlevskaya-4х100</model>
+                <description>Теплица из поликарбоната, каркас выполнен из сдвоенной стальной оцинкованной трубы.
+                    Поликарбонат 4мм с защитой UV.
+                </description>
+                <sales_notes>Оплата при доставке товара</sales_notes>
+                <manufacturer_warranty>true</manufacturer_warranty>
+                <param name="Тип">теплица</param>
+                <param name="Покрытие">поликарбонат</param>
+                <param name="Тип каркаса">профильная труба</param>
+                <param name="Оцинкованный каркас">есть</param>
+                <param name="Сечение каркаса">20х20 мм</param>
+                <param name="Наличие форточки">есть</param>
+                <param name="Длина" unit="метр">4</param>
+                <param name="Шаг между дугами" unit="см">100</param>
+                <param name="Толщина стенки трубы" unit="мм">1,0</param>
+                <param name="Наличие дверей">есть</param>
+                <param name="Грунтозацепы">опционально</param>
+                <param name="Брус">опционально</param>
+                <param name="Внутренняя перегородка">опционально</param>
+                <param name="Боковая форточка">опционально</param>
+                <param name="Механизм открывания форточки">опционально</param>
+                <param name="Монтаж">опционально</param>
+            </offer>
+            <offer id="21x4x65" available="true">
+                <url>https://triumf40.ru/production/greenhouses/kremlevskaya?l=4&amp;s=65</url>
+                <price>21300</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>2</categoryId>
+                <picture>https://triumf40.ru/images/kremlevskaya/kreml1.jpg</picture>
+                <picture>https://triumf40.ru/images/kremlevskaya/kreml3.jpg</picture>
+                <picture>https://triumf40.ru/images/kremlevskaya/tkr_1.jpg</picture>
+                <store>true</store>
+                <delivery>true</delivery>
+                <name>Теплица оцинкованная "Триумф Кремлевская" 4м (шаг 65см)</name>
+                <vendor>Триумф</vendor>
+                <vendorCode>triumf-kremlevskaya-4х65</vendorCode>
+                <model>triumf-kremlevskaya-4х65</model>
+                <description>Теплица из поликарбоната, каркас выполнен из сдвоенной стальной оцинкованной трубы.
+                    Поликарбонат 4мм с защитой UV.
+                </description>
+                <sales_notes>Оплата при доставке товара</sales_notes>
+                <manufacturer_warranty>true</manufacturer_warranty>
+                <param name="Тип">теплица</param>
+                <param name="Покрытие">поликарбонат</param>
+                <param name="Тип каркаса">профильная труба</param>
+                <param name="Оцинкованный каркас">есть</param>
+                <param name="Сечение каркаса">20х20 мм</param>
+                <param name="Наличие форточки">есть</param>
+                <param name="Длина" unit="метр">4</param>
+                <param name="Шаг между дугами" unit="см">65</param>
+                <param name="Толщина стенки трубы" unit="мм">1,0</param>
+                <param name="Наличие дверей">есть</param>
+                <param name="Грунтозацепы">опционально</param>
+                <param name="Брус">опционально</param>
+                <param name="Внутренняя перегородка">опционально</param>
+                <param name="Боковая форточка">опционально</param>
+                <param name="Механизм открывания форточки">опционально</param>
+                <param name="Монтаж">опционально</param>
+            </offer>
+            <offer id="21x6x100" available="true">
+                <url>https://triumf40.ru/production/greenhouses/kremlevskaya?l=6&amp;s=100</url>
+                <price>23850</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>2</categoryId>
+                <picture>https://triumf40.ru/images/kremlevskaya/kreml1.jpg</picture>
+                <picture>https://triumf40.ru/images/kremlevskaya/kreml3.jpg</picture>
+                <picture>https://triumf40.ru/images/kremlevskaya/tkr_1.jpg</picture>
+                <store>true</store>
+                <delivery>true</delivery>
+                <name>Теплица оцинкованная "Триумф Кремлевская" 6м (шаг 100см)</name>
+                <vendor>Триумф</vendor>
+                <vendorCode>triumf-kremlevskaya-6х100</vendorCode>
+                <model>triumf-kremlevskaya-6х100</model>
+                <description>Теплица из поликарбоната, каркас выполнен из сдвоенной стальной оцинкованной трубы.
+                    Поликарбонат 4мм с защитой UV.
+                </description>
+                <sales_notes>Оплата при доставке товара</sales_notes>
+                <manufacturer_warranty>true</manufacturer_warranty>
+                <param name="Тип">теплица</param>
+                <param name="Покрытие">поликарбонат</param>
+                <param name="Тип каркаса">профильная труба</param>
+                <param name="Оцинкованный каркас">есть</param>
+                <param name="Сечение каркаса">20х20 мм</param>
+                <param name="Наличие форточки">есть</param>
+                <param name="Длина" unit="метр">6</param>
+                <param name="Шаг между дугами" unit="см">100</param>
+                <param name="Толщина стенки трубы" unit="мм">1,0</param>
+                <param name="Наличие дверей">есть</param>
+                <param name="Грунтозацепы">опционально</param>
+                <param name="Брус">опционально</param>
+                <param name="Внутренняя перегородка">опционально</param>
+                <param name="Боковая форточка">опционально</param>
+                <param name="Механизм открывания форточки">опционально</param>
+                <param name="Монтаж">опционально</param>
+            </offer>
+            <offer id="21x6x65" available="true">
+                <url>https://triumf40.ru/production/greenhouses/kremlevskaya?l=6&amp;s=65</url>
+                <price>28000</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>2</categoryId>
+                <picture>https://triumf40.ru/images/kremlevskaya/kreml1.jpg</picture>
+                <picture>https://triumf40.ru/images/kremlevskaya/kreml3.jpg</picture>
+                <picture>https://triumf40.ru/images/kremlevskaya/tkr_1.jpg</picture>
+                <store>true</store>
+                <delivery>true</delivery>
+                <name>Теплица оцинкованная "Триумф Кремлевская" 6м (шаг 65см)</name>
+                <vendor>Триумф</vendor>
+                <vendorCode>triumf-kremlevskaya-6х65</vendorCode>
+                <model>triumf-kremlevskaya-6х65</model>
+                <description>Теплица из поликарбоната, каркас выполнен из сдвоенной стальной оцинкованной трубы.
+                    Поликарбонат 4мм с защитой UV.
+                </description>
+                <sales_notes>Оплата при доставке товара</sales_notes>
+                <manufacturer_warranty>true</manufacturer_warranty>
+                <param name="Тип">теплица</param>
+                <param name="Покрытие">поликарбонат</param>
+                <param name="Тип каркаса">профильная труба</param>
+                <param name="Оцинкованный каркас">есть</param>
+                <param name="Сечение каркаса">20х20 мм</param>
+                <param name="Наличие форточки">есть</param>
+                <param name="Длина" unit="метр">6</param>
+                <param name="Шаг между дугами" unit="см">65</param>
+                <param name="Толщина стенки трубы" unit="мм">1,0</param>
+                <param name="Наличие дверей">есть</param>
+                <param name="Грунтозацепы">опционально</param>
+                <param name="Брус">опционально</param>
+                <param name="Внутренняя перегородка">опционально</param>
+                <param name="Боковая форточка">опционально</param>
+                <param name="Механизм открывания форточки">опционально</param>
+                <param name="Монтаж">опционально</param>
+            </offer>
+            <offer id="21x8x100" available="true">
+                <url>https://triumf40.ru/production/greenhouses/kremlevskaya?l=8&amp;s=100</url>
+                <price>29100</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>2</categoryId>
+                <picture>https://triumf40.ru/images/kremlevskaya/kreml1.jpg</picture>
+                <picture>https://triumf40.ru/images/kremlevskaya/kreml3.jpg</picture>
+                <picture>https://triumf40.ru/images/kremlevskaya/tkr_1.jpg</picture>
+                <store>true</store>
+                <delivery>true</delivery>
+                <name>Теплица оцинкованная "Триумф Кремлевская" 8м (шаг 100см)</name>
+                <vendor>Триумф</vendor>
+                <vendorCode>triumf-kremlevskaya-8х100</vendorCode>
+                <model>triumf-kremlevskaya-8х100</model>
+                <description>Теплица из поликарбоната, каркас выполнен из сдвоенной стальной оцинкованной трубы.
+                    Поликарбонат 4мм с защитой UV.
+                </description>
+                <sales_notes>Оплата при доставке товара</sales_notes>
+                <manufacturer_warranty>true</manufacturer_warranty>
+                <param name="Тип">теплица</param>
+                <param name="Покрытие">поликарбонат</param>
+                <param name="Тип каркаса">профильная труба</param>
+                <param name="Оцинкованный каркас">есть</param>
+                <param name="Сечение каркаса">20х20 мм</param>
+                <param name="Наличие форточки">есть</param>
+                <param name="Длина" unit="метр">8</param>
+                <param name="Шаг между дугами" unit="см">100</param>
+                <param name="Толщина стенки трубы" unit="мм">1,0</param>
+                <param name="Наличие дверей">есть</param>
+                <param name="Грунтозацепы">опционально</param>
+                <param name="Брус">опционально</param>
+                <param name="Внутренняя перегородка">опционально</param>
+                <param name="Боковая форточка">опционально</param>
+                <param name="Механизм открывания форточки">опционально</param>
+                <param name="Монтаж">опционально</param>
+            </offer>
+            <offer id="21x8x65" available="true">
+                <url>https://triumf40.ru/production/greenhouses/kremlevskaya?l=8&amp;s=65</url>
+                <price>34500</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>2</categoryId>
+                <picture>https://triumf40.ru/images/kremlevskaya/kreml1.jpg</picture>
+                <picture>https://triumf40.ru/images/kremlevskaya/kreml3.jpg</picture>
+                <picture>https://triumf40.ru/images/kremlevskaya/tkr_1.jpg</picture>
+                <store>true</store>
+                <delivery>true</delivery>
+                <name>Теплица оцинкованная "Триумф Кремлевская" 8м (шаг 65см)</name>
+                <vendor>Триумф</vendor>
+                <vendorCode>triumf-kremlevskaya-8х65</vendorCode>
+                <model>triumf-kremlevskaya-8х65</model>
+                <description>Теплица из поликарбоната, каркас выполнен из сдвоенной стальной оцинкованной трубы.
+                    Поликарбонат 4мм с защитой UV.
+                </description>
+                <sales_notes>Оплата при доставке товара</sales_notes>
+                <manufacturer_warranty>true</manufacturer_warranty>
+                <param name="Тип">теплица</param>
+                <param name="Покрытие">поликарбонат</param>
+                <param name="Тип каркаса">профильная труба</param>
+                <param name="Оцинкованный каркас">есть</param>
+                <param name="Сечение каркаса">20х20 мм</param>
+                <param name="Наличие форточки">есть</param>
+                <param name="Длина" unit="метр">8</param>
+                <param name="Шаг между дугами" unit="см">65</param>
+                <param name="Толщина стенки трубы" unit="мм">1,0</param>
+                <param name="Наличие дверей">есть</param>
+                <param name="Грунтозацепы">опционально</param>
+                <param name="Брус">опционально</param>
+                <param name="Внутренняя перегородка">опционально</param>
+                <param name="Боковая форточка">опционально</param>
+                <param name="Механизм открывания форточки">опционально</param>
+                <param name="Монтаж">опционально</param>
+            </offer>
+            <offer id="21x10x100" available="true">
+                <url>https://triumf40.ru/production/greenhouses/kremlevskaya?l=10&amp;s=100</url>
+                <price>29100</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>2</categoryId>
+                <picture>https://triumf40.ru/images/kremlevskaya/kreml1.jpg</picture>
+                <picture>https://triumf40.ru/images/kremlevskaya/kreml3.jpg</picture>
+                <picture>https://triumf40.ru/images/kremlevskaya/tkr_1.jpg</picture>
+                <store>true</store>
+                <delivery>true</delivery>
+                <name>Теплица оцинкованная "Триумф Кремлевская" 10м (шаг 100см)</name>
+                <vendor>Триумф</vendor>
+                <vendorCode>triumf-kremlevskaya-10х100</vendorCode>
+                <model>triumf-kremlevskaya-10х100</model>
+                <description>Теплица из поликарбоната, каркас выполнен из сдвоенной стальной оцинкованной трубы.
+                    Поликарбонат 4мм с защитой UV.
+                </description>
+                <sales_notes>Оплата при доставке товара</sales_notes>
+                <manufacturer_warranty>true</manufacturer_warranty>
+                <param name="Тип">теплица</param>
+                <param name="Покрытие">поликарбонат</param>
+                <param name="Тип каркаса">профильная труба</param>
+                <param name="Оцинкованный каркас">есть</param>
+                <param name="Сечение каркаса">20х20 мм</param>
+                <param name="Наличие форточки">есть</param>
+                <param name="Длина" unit="метр">10</param>
+                <param name="Шаг между дугами" unit="см">100</param>
+                <param name="Толщина стенки трубы" unit="мм">1,0</param>
+                <param name="Наличие дверей">есть</param>
+                <param name="Грунтозацепы">опционально</param>
+                <param name="Брус">опционально</param>
+                <param name="Внутренняя перегородка">опционально</param>
+                <param name="Боковая форточка">опционально</param>
+                <param name="Механизм открывания форточки">опционально</param>
+                <param name="Монтаж">опционально</param>
+            </offer>
+            <offer id="21x10x65" available="true">
+                <url>https://triumf40.ru/production/greenhouses/kremlevskaya?l=10&amp;s=65</url>
+                <price>34500</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>2</categoryId>
+                <picture>https://triumf40.ru/images/kremlevskaya/kreml1.jpg</picture>
+                <picture>https://triumf40.ru/images/kremlevskaya/kreml3.jpg</picture>
+                <picture>https://triumf40.ru/images/kremlevskaya/tkr_1.jpg</picture>
+                <store>true</store>
+                <delivery>true</delivery>
+                <name>Теплица оцинкованная "Триумф Кремлевская" 10м (шаг 65см)</name>
+                <vendor>Триумф</vendor>
+                <vendorCode>triumf-kremlevskaya-10х65</vendorCode>
+                <model>triumf-kremlevskaya-10х65</model>
+                <description>Теплица из поликарбоната, каркас выполнен из сдвоенной стальной оцинкованной трубы.
+                    Поликарбонат 4мм с защитой UV.
+                </description>
+                <sales_notes>Оплата при доставке товара</sales_notes>
+                <manufacturer_warranty>true</manufacturer_warranty>
+                <param name="Тип">теплица</param>
+                <param name="Покрытие">поликарбонат</param>
+                <param name="Тип каркаса">профильная труба</param>
+                <param name="Оцинкованный каркас">есть</param>
+                <param name="Сечение каркаса">20х20 мм</param>
+                <param name="Наличие форточки">есть</param>
+                <param name="Длина" unit="метр">10</param>
+                <param name="Шаг между дугами" unit="см">65</param>
+                <param name="Толщина стенки трубы" unit="мм">1,0</param>
+                <param name="Наличие дверей">есть</param>
+                <param name="Грунтозацепы">опционально</param>
+                <param name="Брус">опционально</param>
+                <param name="Внутренняя перегородка">опционально</param>
+                <param name="Боковая форточка">опционально</param>
+                <param name="Механизм открывания форточки">опционально</param>
+                <param name="Монтаж">опционально</param>
+            </offer>
+            <offer id="12x2x100" available="true">
+                <url>https://triumf40.ru/production/greenhouses/standart?l=2&amp;s=100</url>
+                <price>10900</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>2</categoryId>
+                <picture>https://triumf40.ru/images/standart/IMG_3425.JPG</picture>
+                <picture>https://triumf40.ru/images/standart/s1.jpeg</picture>
+                <picture>https://triumf40.ru/images/standart/s6.jpeg</picture>
+                <store>true</store>
+                <delivery>true</delivery>
+                <name>Теплица оцинкованная "Триумф Стандарт"</name>
+                <vendor>Триумф</vendor>
+                <vendorCode>triumf-standart</vendorCode>
+                <model>triumf-standart</model>
+                <description>Теплица из поликарбоната, каркас выполнен из стальной оцинкованной трубы. Поликарбонат 4мм
+                    с защитой UV.
+                </description>
+                <sales_notes>Оплата при доставке товара</sales_notes>
+                <manufacturer_warranty>true</manufacturer_warranty>
+                <param name="Тип">теплица</param>
+                <param name="Покрытие">поликарбонат</param>
+                <param name="Тип каркаса">профильная труба</param>
+                <param name="Оцинкованный каркас">есть</param>
+                <param name="Сечение каркаса">30х30 мм</param>
+                <param name="Наличие форточки">есть</param>
+                <param name="Длина" unit="метр">2</param>
+                <param name="Шаг между дугами" unit="см">100</param>
+                <param name="Толщина стенки трубы" unit="мм">1,0</param>
+                <param name="Наличие дверей">есть</param>
+                <param name="Грунтозацепы">опционально</param>
+                <param name="Брус">опционально</param>
+                <param name="Внутренняя перегородка">опционально</param>
+                <param name="Боковая форточка">опционально</param>
+                <param name="Механизм открывания форточки">опционально</param>
+                <param name="Монтаж">опционально</param>
+            </offer>
+            <offer id="12x4x100" available="true">
+                <url>https://triumf40.ru/production/greenhouses/standart?l=4&amp;s=100</url>
+                <price>14900</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>2</categoryId>
+                <picture>https://triumf40.ru/images/standart/IMG_3425.JPG</picture>
+                <picture>https://triumf40.ru/images/standart/s1.jpeg</picture>
+                <picture>https://triumf40.ru/images/standart/s6.jpeg</picture>
+                <store>true</store>
+                <delivery>true</delivery>
+                <name>Теплица оцинкованная "Триумф Стандарт" 4м (шаг 100см)</name>
+                <vendor>Триумф</vendor>
+                <vendorCode>triumf-standart-4х100</vendorCode>
+                <model>triumf-standart-4х100</model>
+                <description>Теплица из поликарбоната, каркас выполнен из стальной оцинкованной трубы. Поликарбонат 4мм
+                    с защитой UV.
+                </description>
+                <sales_notes>Оплата при доставке товара</sales_notes>
+                <manufacturer_warranty>true</manufacturer_warranty>
+                <param name="Тип">теплица</param>
+                <param name="Покрытие">поликарбонат</param>
+                <param name="Тип каркаса">профильная труба</param>
+                <param name="Оцинкованный каркас">есть</param>
+                <param name="Сечение каркаса">30х30 мм</param>
+                <param name="Наличие форточки">есть</param>
+                <param name="Длина" unit="метр">4</param>
+                <param name="Шаг между дугами" unit="см">100</param>
+                <param name="Толщина стенки трубы" unit="мм">1,0</param>
+                <param name="Наличие дверей">есть</param>
+                <param name="Грунтозацепы">опционально</param>
+                <param name="Брус">опционально</param>
+                <param name="Внутренняя перегородка">опционально</param>
+                <param name="Боковая форточка">опционально</param>
+                <param name="Механизм открывания форточки">опционально</param>
+                <param name="Монтаж">опционально</param>
+            </offer>
+            <offer id="12x4x65" available="true">
+                <url>https://triumf40.ru/production/greenhouses/standart?l=4&amp;s=65</url>
+                <price>16200</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>2</categoryId>
+                <picture>https://triumf40.ru/images/standart/IMG_3425.JPG</picture>
+                <picture>https://triumf40.ru/images/standart/s1.jpeg</picture>
+                <picture>https://triumf40.ru/images/standart/s6.jpeg</picture>
+                <store>true</store>
+                <delivery>true</delivery>
+                <name>Теплица оцинкованная "Триумф Стандарт" 4м (шаг 65см)</name>
+                <vendor>Триумф</vendor>
+                <vendorCode>triumf-standart-4х65</vendorCode>
+                <model>triumf-standart-4х65</model>
+                <description>Теплица из поликарбоната, каркас выполнен из стальной оцинкованной трубы. Поликарбонат 4мм
+                    с защитой UV.
+                </description>
+                <sales_notes>Оплата при доставке товара</sales_notes>
+                <manufacturer_warranty>true</manufacturer_warranty>
+                <param name="Тип">теплица</param>
+                <param name="Покрытие">поликарбонат</param>
+                <param name="Тип каркаса">профильная труба</param>
+                <param name="Оцинкованный каркас">есть</param>
+                <param name="Сечение каркаса">30х30 мм</param>
+                <param name="Наличие форточки">есть</param>
+                <param name="Длина" unit="метр">4</param>
+                <param name="Шаг между дугами" unit="см">65</param>
+                <param name="Толщина стенки трубы" unit="мм">1,0</param>
+                <param name="Наличие дверей">есть</param>
+                <param name="Грунтозацепы">опционально</param>
+                <param name="Брус">опционально</param>
+                <param name="Внутренняя перегородка">опционально</param>
+                <param name="Боковая форточка">опционально</param>
+                <param name="Механизм открывания форточки">опционально</param>
+                <param name="Монтаж">опционально</param>
+            </offer>
+            <offer id="12x6x100" available="true">
+                <url>https://triumf40.ru/production/greenhouses/standart?l=6&amp;s=100</url>
+                <price>18650</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>2</categoryId>
+                <picture>https://triumf40.ru/images/standart/IMG_3425.JPG</picture>
+                <picture>https://triumf40.ru/images/standart/s1.jpeg</picture>
+                <picture>https://triumf40.ru/images/standart/s6.jpeg</picture>
+                <store>true</store>
+                <delivery>true</delivery>
+                <name>Теплица оцинкованная "Триумф Стандарт" 6м (шаг 100см)</name>
+                <vendor>Триумф</vendor>
+                <vendorCode>triumf-standart-6х100</vendorCode>
+                <model>triumf-standart-6х100</model>
+                <description>Теплица из поликарбоната, каркас выполнен из стальной оцинкованной трубы. Поликарбонат 4мм
+                    с защитой UV.
+                </description>
+                <sales_notes>Оплата при доставке товара</sales_notes>
+                <manufacturer_warranty>true</manufacturer_warranty>
+                <param name="Тип">теплица</param>
+                <param name="Покрытие">поликарбонат</param>
+                <param name="Тип каркаса">профильная труба</param>
+                <param name="Оцинкованный каркас">есть</param>
+                <param name="Сечение каркаса">30х30 мм</param>
+                <param name="Наличие форточки">есть</param>
+                <param name="Длина" unit="метр">6</param>
+                <param name="Шаг между дугами" unit="см">100</param>
+                <param name="Толщина стенки трубы" unit="мм">1,0</param>
+                <param name="Наличие дверей">есть</param>
+                <param name="Грунтозацепы">опционально</param>
+                <param name="Брус">опционально</param>
+                <param name="Внутренняя перегородка">опционально</param>
+                <param name="Боковая форточка">опционально</param>
+                <param name="Механизм открывания форточки">опционально</param>
+                <param name="Монтаж">опционально</param>
+            </offer>
+            <offer id="12x6x65" available="true">
+                <url>https://triumf40.ru/production/greenhouses/standart?l=6&amp;s=65</url>
+                <price>20600</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>2</categoryId>
+                <picture>https://triumf40.ru/images/standart/IMG_3425.JPG</picture>
+                <picture>https://triumf40.ru/images/standart/s1.jpeg</picture>
+                <picture>https://triumf40.ru/images/standart/s6.jpeg</picture>
+                <store>true</store>
+                <delivery>true</delivery>
+                <name>Теплица оцинкованная "Триумф Стандарт" 6м (шаг 65см)</name>
+                <vendor>Триумф</vendor>
+                <vendorCode>triumf-standart-6х65</vendorCode>
+                <model>triumf-standart-6х65</model>
+                <description>Теплица из поликарбоната, каркас выполнен из стальной оцинкованной трубы. Поликарбонат 4мм
+                    с защитой UV.
+                </description>
+                <sales_notes>Оплата при доставке товара</sales_notes>
+                <manufacturer_warranty>true</manufacturer_warranty>
+                <param name="Тип">теплица</param>
+                <param name="Покрытие">поликарбонат</param>
+                <param name="Тип каркаса">профильная труба</param>
+                <param name="Оцинкованный каркас">есть</param>
+                <param name="Сечение каркаса">30х30 мм</param>
+                <param name="Наличие форточки">есть</param>
+                <param name="Длина" unit="метр">6</param>
+                <param name="Шаг между дугами" unit="см">65</param>
+                <param name="Толщина стенки трубы" unit="мм">1,0</param>
+                <param name="Наличие дверей">есть</param>
+                <param name="Грунтозацепы">опционально</param>
+                <param name="Брус">опционально</param>
+                <param name="Внутренняя перегородка">опционально</param>
+                <param name="Боковая форточка">опционально</param>
+                <param name="Механизм открывания форточки">опционально</param>
+                <param name="Монтаж">опционально</param>
+            </offer>
+            <offer id="12x8x100" available="true">
+                <url>https://triumf40.ru/production/greenhouses/standart?l=8&amp;s=100</url>
+                <price>22450</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>2</categoryId>
+                <picture>https://triumf40.ru/images/standart/IMG_3425.JPG</picture>
+                <picture>https://triumf40.ru/images/standart/s1.jpeg</picture>
+                <picture>https://triumf40.ru/images/standart/s6.jpeg</picture>
+                <store>true</store>
+                <delivery>true</delivery>
+                <name>Теплица оцинкованная "Триумф Стандарт" 8м (шаг 100см)</name>
+                <vendor>Триумф</vendor>
+                <vendorCode>triumf-standart-8х100</vendorCode>
+                <model>triumf-standart-8х100</model>
+                <description>Теплица из поликарбоната, каркас выполнен из стальной оцинкованной трубы. Поликарбонат 4мм
+                    с защитой UV.
+                </description>
+                <sales_notes>Оплата при доставке товара</sales_notes>
+                <manufacturer_warranty>true</manufacturer_warranty>
+                <param name="Тип">теплица</param>
+                <param name="Покрытие">поликарбонат</param>
+                <param name="Тип каркаса">профильная труба</param>
+                <param name="Оцинкованный каркас">есть</param>
+                <param name="Сечение каркаса">30х30 мм</param>
+                <param name="Наличие форточки">есть</param>
+                <param name="Длина" unit="метр">8</param>
+                <param name="Шаг между дугами" unit="см">100</param>
+                <param name="Толщина стенки трубы" unit="мм">1,0</param>
+                <param name="Наличие дверей">есть</param>
+                <param name="Грунтозацепы">опционально</param>
+                <param name="Брус">опционально</param>
+                <param name="Внутренняя перегородка">опционально</param>
+                <param name="Боковая форточка">опционально</param>
+                <param name="Механизм открывания форточки">опционально</param>
+                <param name="Монтаж">опционально</param>
+            </offer>
+            <offer id="12x8x65" available="true">
+                <url>https://triumf40.ru/production/greenhouses/standart?l=8&amp;s=65</url>
+                <price>25050</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>2</categoryId>
+                <picture>https://triumf40.ru/images/standart/IMG_3425.JPG</picture>
+                <picture>https://triumf40.ru/images/standart/s1.jpeg</picture>
+                <picture>https://triumf40.ru/images/standart/s6.jpeg</picture>
+                <store>true</store>
+                <delivery>true</delivery>
+                <name>Теплица оцинкованная "Триумф Стандарт" 8м (шаг 65см)</name>
+                <vendor>Триумф</vendor>
+                <vendorCode>triumf-standart-8х65</vendorCode>
+                <model>triumf-standart-8х65</model>
+                <description>Теплица из поликарбоната, каркас выполнен из стальной оцинкованной трубы. Поликарбонат 4мм
+                    с защитой UV.
+                </description>
+                <sales_notes>Оплата при доставке товара</sales_notes>
+                <manufacturer_warranty>true</manufacturer_warranty>
+                <param name="Тип">теплица</param>
+                <param name="Покрытие">поликарбонат</param>
+                <param name="Тип каркаса">профильная труба</param>
+                <param name="Оцинкованный каркас">есть</param>
+                <param name="Сечение каркаса">30х30 мм</param>
+                <param name="Наличие форточки">есть</param>
+                <param name="Длина" unit="метр">8</param>
+                <param name="Шаг между дугами" unit="см">65</param>
+                <param name="Толщина стенки трубы" unit="мм">1,0</param>
+                <param name="Наличие дверей">есть</param>
+                <param name="Грунтозацепы">опционально</param>
+                <param name="Брус">опционально</param>
+                <param name="Внутренняя перегородка">опционально</param>
+                <param name="Боковая форточка">опционально</param>
+                <param name="Механизм открывания форточки">опционально</param>
+                <param name="Монтаж">опционально</param>
+            </offer>
+            <offer id="12x10x100" available="true">
+                <url>https://triumf40.ru/production/greenhouses/standart?l=10&amp;s=100</url>
+                <price>26250</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>2</categoryId>
+                <picture>https://triumf40.ru/images/standart/IMG_3425.JPG</picture>
+                <picture>https://triumf40.ru/images/standart/s1.jpeg</picture>
+                <picture>https://triumf40.ru/images/standart/s6.jpeg</picture>
+                <store>true</store>
+                <delivery>true</delivery>
+                <name>Теплица оцинкованная "Триумф Стандарт" 10м (шаг 100см)</name>
+                <vendor>Триумф</vendor>
+                <vendorCode>triumf-standart-10х100</vendorCode>
+                <model>triumf-standart-10х100</model>
+                <description>Теплица из поликарбоната, каркас выполнен из стальной оцинкованной трубы. Поликарбонат 4мм
+                    с защитой UV.
+                </description>
+                <sales_notes>Оплата при доставке товара</sales_notes>
+                <manufacturer_warranty>true</manufacturer_warranty>
+                <param name="Тип">теплица</param>
+                <param name="Покрытие">поликарбонат</param>
+                <param name="Тип каркаса">профильная труба</param>
+                <param name="Оцинкованный каркас">есть</param>
+                <param name="Сечение каркаса">30х30 мм</param>
+                <param name="Наличие форточки">есть</param>
+                <param name="Длина" unit="метр">10</param>
+                <param name="Шаг между дугами" unit="см">100</param>
+                <param name="Толщина стенки трубы" unit="мм">1,0</param>
+                <param name="Наличие дверей">есть</param>
+                <param name="Грунтозацепы">опционально</param>
+                <param name="Брус">опционально</param>
+                <param name="Внутренняя перегородка">опционально</param>
+                <param name="Боковая форточка">опционально</param>
+                <param name="Механизм открывания форточки">опционально</param>
+                <param name="Монтаж">опционально</param>
+            </offer>
+            <offer id="12x10x65" available="true">
+                <url>https://triumf40.ru/production/greenhouses/standart?l=10&amp;s=65</url>
+                <price>29500</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>2</categoryId>
+                <picture>https://triumf40.ru/images/standart/IMG_3425.JPG</picture>
+                <picture>https://triumf40.ru/images/standart/s1.jpeg</picture>
+                <picture>https://triumf40.ru/images/standart/s6.jpeg</picture>
+                <store>true</store>
+                <delivery>true</delivery>
+                <name>Теплица оцинкованная "Триумф Стандарт" 10м (шаг 65см)</name>
+                <vendor>Триумф</vendor>
+                <vendorCode>triumf-standart-10х65</vendorCode>
+                <model>triumf-standart-10х65</model>
+                <description>Теплица из поликарбоната, каркас выполнен из стальной оцинкованной трубы. Поликарбонат 4мм
+                    с защитой UV.
+                </description>
+                <sales_notes>Оплата при доставке товара</sales_notes>
+                <manufacturer_warranty>true</manufacturer_warranty>
+                <param name="Тип">теплица</param>
+                <param name="Покрытие">поликарбонат</param>
+                <param name="Тип каркаса">профильная труба</param>
+                <param name="Оцинкованный каркас">есть</param>
+                <param name="Сечение каркаса">30х30 мм</param>
+                <param name="Наличие форточки">есть</param>
+                <param name="Длина" unit="метр">10</param>
+                <param name="Шаг между дугами" unit="см">65</param>
+                <param name="Толщина стенки трубы" unit="мм">1,0</param>
+                <param name="Наличие дверей">есть</param>
+                <param name="Грунтозацепы">опционально</param>
+                <param name="Брус">опционально</param>
+                <param name="Внутренняя перегородка">опционально</param>
+                <param name="Боковая форточка">опционально</param>
+                <param name="Механизм открывания форточки">опционально</param>
+                <param name="Монтаж">опционально</param>
+            </offer>
+            <offer id="5x2x100" available="true">
+                <url>https://triumf40.ru/production/greenhouses/butterfly?l=2&amp;s=100</url>
+                <price>4900</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>2</categoryId>
+                <picture>https://triumf40.ru/images/butterfly/fly.jpg</picture>
+                <picture>https://triumf40.ru/images/butterfly/fly2.jpg</picture>
+                <store>true</store>
+                <delivery>true</delivery>
+                <name>Мини-теплица "Триумф Бабочка"</name>
+                <vendor>Триумф</vendor>
+                <vendorCode>triumf-butterfly</vendorCode>
+                <model>triumf-butterfly</model>
+                <description>Теплица из поликарбоната, каркас выполнен из стальной оцинкованной трубы. Поликарбонат 4мм
+                    с защитой UV.
+                </description>
+                <sales_notes>Оплата при доставке товара</sales_notes>
+                <manufacturer_warranty>true</manufacturer_warranty>
+                <param name="Тип">теплица</param>
+                <param name="Покрытие">поликарбонат</param>
+                <param name="Тип каркаса">профильная труба</param>
+                <param name="Оцинкованный каркас">есть</param>
+                <param name="Сечение каркаса">20х20 мм</param>
+                <param name="Наличие форточки">есть</param>
+                <param name="Длина" unit="метр">2</param>
+                <param name="Шаг между дугами" unit="см">100</param>
+                <param name="Толщина стенки трубы" unit="мм">1,0</param>
+                <param name="Наличие дверей">есть</param>
+                <param name="Грунтозацепы">опционально</param>
+                <param name="Брус">опционально</param>
+                <param name="Внутренняя перегородка">опционально</param>
+                <param name="Боковая форточка">опционально</param>
+                <param name="Механизм открывания форточки">опционально</param>
+                <param name="Монтаж">опционально</param>
+            </offer>
+            <offer id="3x2x100" available="true">
+                <url>https://triumf40.ru/production/greenhouses/aluma?l=2&amp;s=100</url>
+                <price>14500</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>2</categoryId>
+                <picture>https://triumf40.ru/images/aluma/IMG_20141126_150519.jpg</picture>
+                <picture>https://triumf40.ru/images/aluma/IMG_20141205_172835.jpg</picture>
+                <store>true</store>
+                <delivery>true</delivery>
+                <name>Теплица алюминиевая "Триумф Алюма"</name>
+                <vendor>Триумф</vendor>
+                <vendorCode>triumf-aluma</vendorCode>
+                <model>triumf-aluma</model>
+                <description>Теплица из поликарбоната, каркас выполнен из алюминиевой трубы. Поликарбонат 4мм с защитой
+                    UV.
+                </description>
+                <sales_notes>Оплата при доставке товара</sales_notes>
+                <manufacturer_warranty>true</manufacturer_warranty>
+                <param name="Тип">теплица</param>
+                <param name="Покрытие">поликарбонат</param>
+                <param name="Тип каркаса">профильная труба</param>
+                <param name="Сечение каркаса">30х30 мм</param>
+                <param name="Наличие форточки">есть</param>
+                <param name="Длина" unit="метр">2</param>
+                <param name="Шаг между дугами" unit="см">100</param>
+                <param name="Толщина стенки трубы" unit="мм">1,5</param>
+                <param name="Наличие дверей">есть</param>
+                <param name="Грунтозацепы">опционально</param>
+                <param name="Брус">опционально</param>
+                <param name="Внутренняя перегородка">опционально</param>
+                <param name="Боковая форточка">опционально</param>
+                <param name="Механизм открывания форточки">опционально</param>
+                <param name="Монтаж">опционально</param>
+            </offer>
+            <offer id="3x4x100" available="true">
+                <url>https://triumf40.ru/production/greenhouses/aluma?l=4&amp;s=100</url>
+                <price>19500</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>2</categoryId>
+                <picture>https://triumf40.ru/images/aluma/IMG_20141126_150519.jpg</picture>
+                <picture>https://triumf40.ru/images/aluma/IMG_20141205_172835.jpg</picture>
+                <store>true</store>
+                <delivery>true</delivery>
+                <name>Теплица алюминиевая "Триумф Алюма" 4м (шаг 100см)</name>
+                <vendor>Триумф</vendor>
+                <vendorCode>triumf-aluma-4х100</vendorCode>
+                <model>triumf-aluma-4х100</model>
+                <description>Теплица из поликарбоната, каркас выполнен из алюминиевой трубы. Поликарбонат 4мм с защитой
+                    UV.
+                </description>
+                <sales_notes>Оплата при доставке товара</sales_notes>
+                <manufacturer_warranty>true</manufacturer_warranty>
+                <param name="Тип">теплица</param>
+                <param name="Покрытие">поликарбонат</param>
+                <param name="Тип каркаса">профильная труба</param>
+                <param name="Сечение каркаса">30х30 мм</param>
+                <param name="Наличие форточки">есть</param>
+                <param name="Длина" unit="метр">4</param>
+                <param name="Шаг между дугами" unit="см">100</param>
+                <param name="Толщина стенки трубы" unit="мм">1,5</param>
+                <param name="Наличие дверей">есть</param>
+                <param name="Грунтозацепы">опционально</param>
+                <param name="Брус">опционально</param>
+                <param name="Внутренняя перегородка">опционально</param>
+                <param name="Боковая форточка">опционально</param>
+                <param name="Механизм открывания форточки">опционально</param>
+                <param name="Монтаж">опционально</param>
+            </offer>
+            <offer id="3x4x65" available="true">
+                <url>https://triumf40.ru/production/greenhouses/aluma?l=4&amp;s=65</url>
+                <price>21400</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>2</categoryId>
+                <picture>https://triumf40.ru/images/aluma/IMG_20141126_150519.jpg</picture>
+                <picture>https://triumf40.ru/images/aluma/IMG_20141205_172835.jpg</picture>
+                <store>true</store>
+                <delivery>true</delivery>
+                <name>Теплица алюминиевая "Триумф Алюма" 4м (шаг 65см)</name>
+                <vendor>Триумф</vendor>
+                <vendorCode>triumf-aluma-4х65</vendorCode>
+                <model>triumf-aluma-4х65</model>
+                <description>Теплица из поликарбоната, каркас выполнен из алюминиевой трубы. Поликарбонат 4мм с защитой
+                    UV.
+                </description>
+                <sales_notes>Оплата при доставке товара</sales_notes>
+                <manufacturer_warranty>true</manufacturer_warranty>
+                <param name="Тип">теплица</param>
+                <param name="Покрытие">поликарбонат</param>
+                <param name="Тип каркаса">профильная труба</param>
+                <param name="Сечение каркаса">30х30 мм</param>
+                <param name="Наличие форточки">есть</param>
+                <param name="Длина" unit="метр">4</param>
+                <param name="Шаг между дугами" unit="см">65</param>
+                <param name="Толщина стенки трубы" unit="мм">1,5</param>
+                <param name="Наличие дверей">есть</param>
+                <param name="Грунтозацепы">опционально</param>
+                <param name="Брус">опционально</param>
+                <param name="Внутренняя перегородка">опционально</param>
+                <param name="Боковая форточка">опционально</param>
+                <param name="Механизм открывания форточки">опционально</param>
+                <param name="Монтаж">опционально</param>
+            </offer>
+            <offer id="3x6x100" available="true">
+                <url>https://triumf40.ru/production/greenhouses/aluma?l=6&amp;s=100</url>
+                <price>24500</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>2</categoryId>
+                <picture>https://triumf40.ru/images/aluma/IMG_20141126_150519.jpg</picture>
+                <picture>https://triumf40.ru/images/aluma/IMG_20141205_172835.jpg</picture>
+                <store>true</store>
+                <delivery>true</delivery>
+                <name>Теплица алюминиевая "Триумф Алюма" 6м (шаг 100см)</name>
+                <vendor>Триумф</vendor>
+                <vendorCode>triumf-aluma-6х100</vendorCode>
+                <model>triumf-aluma-6х100</model>
+                <description>Теплица из поликарбоната, каркас выполнен из алюминиевой трубы. Поликарбонат 4мм с защитой
+                    UV.
+                </description>
+                <sales_notes>Оплата при доставке товара</sales_notes>
+                <manufacturer_warranty>true</manufacturer_warranty>
+                <param name="Тип">теплица</param>
+                <param name="Покрытие">поликарбонат</param>
+                <param name="Тип каркаса">профильная труба</param>
+                <param name="Сечение каркаса">30х30 мм</param>
+                <param name="Наличие форточки">есть</param>
+                <param name="Длина" unit="метр">6</param>
+                <param name="Шаг между дугами" unit="см">100</param>
+                <param name="Толщина стенки трубы" unit="мм">1,5</param>
+                <param name="Наличие дверей">есть</param>
+                <param name="Грунтозацепы">опционально</param>
+                <param name="Брус">опционально</param>
+                <param name="Внутренняя перегородка">опционально</param>
+                <param name="Боковая форточка">опционально</param>
+                <param name="Механизм открывания форточки">опционально</param>
+                <param name="Монтаж">опционально</param>
+            </offer>
+            <offer id="3x6x65" available="true">
+                <url>https://triumf40.ru/production/greenhouses/aluma?l=6&amp;s=65</url>
+                <price>27500</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>2</categoryId>
+                <picture>https://triumf40.ru/images/aluma/IMG_20141126_150519.jpg</picture>
+                <picture>https://triumf40.ru/images/aluma/IMG_20141205_172835.jpg</picture>
+                <store>true</store>
+                <delivery>true</delivery>
+                <name>Теплица алюминиевая "Триумф Алюма" 6м (шаг 65см)</name>
+                <vendor>Триумф</vendor>
+                <vendorCode>triumf-aluma-6х65</vendorCode>
+                <model>triumf-aluma-6х65</model>
+                <description>Теплица из поликарбоната, каркас выполнен из алюминиевой трубы. Поликарбонат 4мм с защитой
+                    UV.
+                </description>
+                <sales_notes>Оплата при доставке товара</sales_notes>
+                <manufacturer_warranty>true</manufacturer_warranty>
+                <param name="Тип">теплица</param>
+                <param name="Покрытие">поликарбонат</param>
+                <param name="Тип каркаса">профильная труба</param>
+                <param name="Сечение каркаса">30х30 мм</param>
+                <param name="Наличие форточки">есть</param>
+                <param name="Длина" unit="метр">6</param>
+                <param name="Шаг между дугами" unit="см">65</param>
+                <param name="Толщина стенки трубы" unit="мм">1,5</param>
+                <param name="Наличие дверей">есть</param>
+                <param name="Грунтозацепы">опционально</param>
+                <param name="Брус">опционально</param>
+                <param name="Внутренняя перегородка">опционально</param>
+                <param name="Боковая форточка">опционально</param>
+                <param name="Механизм открывания форточки">опционально</param>
+                <param name="Монтаж">опционально</param>
+            </offer>
+            <offer id="3x8x100" available="true">
+                <url>https://triumf40.ru/production/greenhouses/aluma?l=8&amp;s=100</url>
+                <price>29300</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>2</categoryId>
+                <picture>https://triumf40.ru/images/aluma/IMG_20141126_150519.jpg</picture>
+                <picture>https://triumf40.ru/images/aluma/IMG_20141205_172835.jpg</picture>
+                <store>true</store>
+                <delivery>true</delivery>
+                <name>Теплица алюминиевая "Триумф Алюма" 8м (шаг 100см)</name>
+                <vendor>Триумф</vendor>
+                <vendorCode>triumf-aluma-8х100</vendorCode>
+                <model>triumf-aluma-8х100</model>
+                <description>Теплица из поликарбоната, каркас выполнен из алюминиевой трубы. Поликарбонат 4мм с защитой
+                    UV.
+                </description>
+                <sales_notes>Оплата при доставке товара</sales_notes>
+                <manufacturer_warranty>true</manufacturer_warranty>
+                <param name="Тип">теплица</param>
+                <param name="Покрытие">поликарбонат</param>
+                <param name="Тип каркаса">профильная труба</param>
+                <param name="Сечение каркаса">30х30 мм</param>
+                <param name="Наличие форточки">есть</param>
+                <param name="Длина" unit="метр">8</param>
+                <param name="Шаг между дугами" unit="см">100</param>
+                <param name="Толщина стенки трубы" unit="мм">1,5</param>
+                <param name="Наличие дверей">есть</param>
+                <param name="Грунтозацепы">опционально</param>
+                <param name="Брус">опционально</param>
+                <param name="Внутренняя перегородка">опционально</param>
+                <param name="Боковая форточка">опционально</param>
+                <param name="Механизм открывания форточки">опционально</param>
+                <param name="Монтаж">опционально</param>
+            </offer>
+            <offer id="3x8x65" available="true">
+                <url>https://triumf40.ru/production/greenhouses/aluma?l=8&amp;s=65</url>
+                <price>33200</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>2</categoryId>
+                <picture>https://triumf40.ru/images/aluma/IMG_20141126_150519.jpg</picture>
+                <picture>https://triumf40.ru/images/aluma/IMG_20141205_172835.jpg</picture>
+                <store>true</store>
+                <delivery>true</delivery>
+                <name>Теплица алюминиевая "Триумф Алюма" 8м (шаг 65см)</name>
+                <vendor>Триумф</vendor>
+                <vendorCode>triumf-aluma-8х65</vendorCode>
+                <model>triumf-aluma-8х65</model>
+                <description>Теплица из поликарбоната, каркас выполнен из алюминиевой трубы. Поликарбонат 4мм с защитой
+                    UV.
+                </description>
+                <sales_notes>Оплата при доставке товара</sales_notes>
+                <manufacturer_warranty>true</manufacturer_warranty>
+                <param name="Тип">теплица</param>
+                <param name="Покрытие">поликарбонат</param>
+                <param name="Тип каркаса">профильная труба</param>
+                <param name="Сечение каркаса">30х30 мм</param>
+                <param name="Наличие форточки">есть</param>
+                <param name="Длина" unit="метр">8</param>
+                <param name="Шаг между дугами" unit="см">65</param>
+                <param name="Толщина стенки трубы" unit="мм">1,5</param>
+                <param name="Наличие дверей">есть</param>
+                <param name="Грунтозацепы">опционально</param>
+                <param name="Брус">опционально</param>
+                <param name="Внутренняя перегородка">опционально</param>
+                <param name="Боковая форточка">опционально</param>
+                <param name="Механизм открывания форточки">опционально</param>
+                <param name="Монтаж">опционально</param>
+            </offer>
+            <offer id="3x10x100" available="true">
+                <url>https://triumf40.ru/production/greenhouses/aluma?l=10&amp;s=100</url>
+                <price>34300</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>2</categoryId>
+                <picture>https://triumf40.ru/images/aluma/IMG_20141126_150519.jpg</picture>
+                <picture>https://triumf40.ru/images/aluma/IMG_20141205_172835.jpg</picture>
+                <store>true</store>
+                <delivery>true</delivery>
+                <name>Теплица алюминиевая "Триумф Алюма" 10м (шаг 100см)</name>
+                <vendor>Триумф</vendor>
+                <vendorCode>triumf-aluma-10х100</vendorCode>
+                <model>triumf-aluma-10х100</model>
+                <description>Теплица из поликарбоната, каркас выполнен из алюминиевой трубы. Поликарбонат 4мм с защитой
+                    UV.
+                </description>
+                <sales_notes>Оплата при доставке товара</sales_notes>
+                <manufacturer_warranty>true</manufacturer_warranty>
+                <param name="Тип">теплица</param>
+                <param name="Покрытие">поликарбонат</param>
+                <param name="Тип каркаса">профильная труба</param>
+                <param name="Сечение каркаса">30х30 мм</param>
+                <param name="Наличие форточки">есть</param>
+                <param name="Длина" unit="метр">10</param>
+                <param name="Шаг между дугами" unit="см">100</param>
+                <param name="Толщина стенки трубы" unit="мм">1,5</param>
+                <param name="Наличие дверей">есть</param>
+                <param name="Грунтозацепы">опционально</param>
+                <param name="Брус">опционально</param>
+                <param name="Внутренняя перегородка">опционально</param>
+                <param name="Боковая форточка">опционально</param>
+                <param name="Механизм открывания форточки">опционально</param>
+                <param name="Монтаж">опционально</param>
+            </offer>
+            <offer id="3x10x65" available="true">
+                <url>https://triumf40.ru/production/greenhouses/aluma?l=10&amp;s=65</url>
+                <price>39200</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>2</categoryId>
+                <picture>https://triumf40.ru/images/aluma/IMG_20141126_150519.jpg</picture>
+                <picture>https://triumf40.ru/images/aluma/IMG_20141205_172835.jpg</picture>
+                <store>true</store>
+                <delivery>true</delivery>
+                <name>Теплица алюминиевая "Триумф Алюма" 10м (шаг 65см)</name>
+                <vendor>Триумф</vendor>
+                <vendorCode>triumf-aluma-10х65</vendorCode>
+                <model>triumf-aluma-10х65</model>
+                <description>Теплица из поликарбоната, каркас выполнен из алюминиевой трубы. Поликарбонат 4мм с защитой
+                    UV.
+                </description>
+                <sales_notes>Оплата при доставке товара</sales_notes>
+                <manufacturer_warranty>true</manufacturer_warranty>
+                <param name="Тип">теплица</param>
+                <param name="Покрытие">поликарбонат</param>
+                <param name="Тип каркаса">профильная труба</param>
+                <param name="Сечение каркаса">30х30 мм</param>
+                <param name="Наличие форточки">есть</param>
+                <param name="Длина" unit="метр">10</param>
+                <param name="Шаг между дугами" unit="см">65</param>
+                <param name="Толщина стенки трубы" unit="мм">1,5</param>
+                <param name="Наличие дверей">есть</param>
+                <param name="Грунтозацепы">опционально</param>
+                <param name="Брус">опционально</param>
+                <param name="Внутренняя перегородка">опционально</param>
+                <param name="Боковая форточка">опционально</param>
+                <param name="Механизм открывания форточки">опционально</param>
+                <param name="Монтаж">опционально</param>
+            </offer>
+        </offers>
+    </shop>
+</yml_catalog>
